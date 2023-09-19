@@ -1,0 +1,120 @@
+J PREV MED HYG 2007; 48: 91-95 
+ORIGINAL ARTICLE 
+Investigation on virucidal activity of chlorine dioxide. Experimental data on Feline calicivirus, HAV and Coxsackie B5 
+R. ZONI, R. ZANELLI, E. RIBOLDI, L. BIGLIARDI, G. SANSEBASTIANO Department of Public Health, Sec. Hygiene, University of Parma, Italy 
+Key words 
+Chlorine dioxide • Virucidal activity • Disinfection treatment 
+Summary 
+
+Introduction. The aim of this study was to evaluate the efficacy of to ClOoxidizing 2 with agent regard such to viruses as which show a particular resistance HAV and Norwalk and Norwalk-like viruses, and which play an important role in the epidemiology of viral foodborne diseases. In the food industry, disinfection of processing systems and equip- ment is a very important instrument to prevent secondary con- tamination and to guarantee food safety. Among disinfectants, chlorine of pH values, dioxide its (ClOaction 2) is presents rapid a good efficacy at wide range and generates few reaction by- products if compared to hypoclorite. Experimental studies have highlighted also active towards that ClOviruses. 2 shows Furthermore, a good bactericidal the low activity concentrations and it is 
+and low contact times required to obtain microbial load reduction are favourable elements for the application of this compound in the industrial sanitizing practices. Methods. As it is impossible to cultivate the Norwalk virus in vitro, we comparison tested the with resistance HAV (strain of Feline HM-175) calicivirus and CoxsackieB5. (F9 strain) vs. Chlorine ClO2, in 
+dioxide was used at concentrations ranging from 0.2 to 0.8 mg/l in water solution, at pH 7 and at +20 °C. Viral suspensions were added 
+to disinfecting solution and, at pre-set times, were sampled to undergo to titration after blocking the disinfectant action with thiosulphate 0.05 M. On the basis of the data obtained, for each virus and in relation to different concentrations, mean reduction times were calculated for 99%, 99.9% and 99.99% using the regression analysis model. Results. As regards Feline calicivirus, at a concentration of 0.8 mg/l titre in of 2 ClOmin 2, while we obtained the 30 min were complete elimination of the viral required at concentrations of 0.2 mg/l. Coxackie B5 showed a similar behaviour, being completely inactivated in 4 min with 0.4 mg/l concentration of 0.2 mg/l. Inactivation of ClOwas 2 quicker and after for HAV, 30 min which at a 
+was eliminated after only 30 sec at a concentration of 0.8 mg/l and after 5 min at 0.4 mg/l. Conclusion. Our data show that for complete inactivation of HAV and Feline calicivirus, concentrations ≥ 0.6 mg/l are required. This observation is true for Coxsackie B5 too, but this virus has shown a good sensitivity at all concentration tested according to regression analysis results. For Feline calicivirus and HAV, at low concentrations of disinfectant, prolonged contact times were needed to obtain a 99.99% reduction of viral titres (about 16 and 20 minutes respectively). 
+Introduction 
+Although viruses, unlike bacteria, are incapable for replicating in food, they represent an important cause of foodborne infections. Viruses with oral-faecal transmission play an important role in the etiological factors involved, and most cases of gastroenteritis are attributed to the Norwalk virus or to the Norwalk-like virus, viruses belonging to the fam- ily of caliciviruses, and to the hepatitis A virus. Food is exposed to risks of primary contamination when the raw materials themselves are contaminated, or sec- ondary contamination when they come into contact with surfaces/equipment which are contaminated [1]. Thus, sanitizing the processing systems and the equip- ment which comes into contact with the foodstuffs is ex- tremely important in the food industry in order to reduce the risk of secondary contamination, and represents a fundamental instrument to reduce the risk of infection linked to the consumption of foodstuffs. 
+Hypochlorite oxidizing and and are thus chlorine commonly dioxide used (ClOas 2disinfectants, ) are highly 
+especially when disinfecting water. Studies carried out on potential genotoxic effects of chlo- rination have shown that the use of sodium hypochlorite leads to the formation of a larger number of mutagen substances than the use of chlorine dioxide [2]. As compared to other oxidizing disinfectants, chlorine dioxide offers certain advantages, such as its efficacy in a wide range of pH values and its rapid action. If compared to hypochlorite, for instance, it has a higher selectivity and generates a smaller number of reaction products; is furthermore, the bactericidal greater than that of HClO since its greater efficacy oxidizing of ClO2 capacity has been demonstrated. Inactivation assays carried out under controlled ex- perimental conditions have shown a different sensitivity towards concentration ClO2 on of the part of various enteroviruses: at a 0.32 mg/l in conditions of neutral pH and at a temperature of 15°C, the inactivation time for 
+91 
+
+R. ZONI ET AL. 
+Tab. I. Reduction of bacterial load. 
+Microorganism Concentration ClO2 mg/l Contact Times % inactivation 
+Staphylococcus aureus 1.00 60 sec 99.999 Escherichia coli 0.15 300 sec 99.900 Escherichia coli 0.25 60 sec > 99.999 Streptococcus 1.00 15 sec > 99.999 Lactobacillus brevis 0.15 5 min 99.900 Lactobacillus brevis 1.00 5 min > 99.999 Pseudomonas aeuruginosa 1.00 60 sec > 99.999 
+99.99% was 5 min for Echo 7, 3 min for Coxsakie B3 
+thiosulphate 0.05 M in order to neutralize the disinfect- and 7 min for the polio1 virus [3, 4]. 
+ant activity. The low concentrations generally required, low contact 
+For hepatitis A virus, we proceeded by setting up scalar times and reduced microbial load are favourable ele- 
+10-folds dilutions for each contact time and by inoculat- ments Table 92 promoting I illustrates the the use disinfecting of ClO2 in activity the food of industry. 
+chlorine 
+ing them in cell cultures previously grown in 24-wells- plates (0.1 ml/well); the plates were then incubated for 2 dioxide [5]. The aim of this study was to assess under experimental 
+hours at 37°C expired, the inoculum (5% CO2). was As sucked soon as up the and contact a time has semi-solid conditions the efficacy of chlorine dioxide when used 
+medium was added (4% foetal calf serum, 43% MEM with certain viruses which have proven to be particu- 
+2X, 43% carboxymethylcellulose). After a twelve-days larly resistant to oxidizing agents, and which has not 
+incubation, the cell cultures were fixed with formalin been throughly investigated in the literature. 
+(two hours-contact time), then washed with demineral- ised water and stained with Giemsa; the following day we washed away the exeeding stain and the cell lysis Materials and methods 
+plaques were counted. As regards the other viruses assayed, the 10-folds dilu- The following were used for the inactivation assays: 
+tions prepared for each contact time aliquot were placed the feline Calicivirus F9 strain grown on CRFK (feline 
+in 96-wells plates (25 μl/well) previously prepared with kidney) cultures, the Coxsakie B5 virus grown on RC- 
+25 μl/well of medium and 50 μl of cell suspension has 37 (monkey kidney), and the Hepatitis A virus strain 
+been added to each well. Finally, after an incubation at HM-175 grown on FRhK4 (monkey kidney embryonic) 
+37°C for 4 days, we detected the presence of the cyto- cultures. 
+pathic effect induced by the virus. Infected cell cultures were incubated at 37°C until the onset of the cytopathic effect, and subsequently frozen at -80°C to induce cell lysis; the contents of the flask were then submitted to ultra-filtration and re-suspended 
+Results 
+with sterile physiological solution, and finally aliquoted in sterile test tubes and stored in deepfreeze at -20°C. 
+FELINE CALICIVIRUS The titre of the viral suspension was determined for the 
+In order to assess the trend of the inactivation assays hepatitis A virus using the plate method and expressed 
+with Feline calicivirus, the logarithms of the titres were as PFU, while for the other viruses it was calculated 
+calculated and the trends at various concentrations at as culture) TCID50 according (titre of the to the dose Reed-Muench infecting 50% method; of the cell we 
+various times are shown in Figure 1. At a concentration of 0.8 mg/l the viral titre was elimi- integrated the titres of 3 or 4 test for each virus and dif- 
+nated after two minutes, and after thirty minutes at a ferent concentrations. 
+concentration of 0.2 mg/l. Chlorine dioxide was used as disinfectant at the follow- 
+Mean reduction times were then calculated for 99%, ing concentrations: 0.2, 0.4, 0.6, 0.8 mg/l. 
+99.9% and 99.99% inactivation through analysis of re- Viral inactivation assays were carried out at a constant 
+gression, giving the results shown in Table II. temperature of 20°C with neutral pH kept constant by 
+Table II shows that at a concentration of 0.8 mg/l a 99.99% using a buffer solution at pH 7. 
+reduction was obtained after 2.1 minutes, while 15.5 min- 
+PERFORMING THE ASSAYS 
+utes were required for concentrations of 0.2 mg/l. 
+1 ml of viral suspension was added to the disinfecting 
+COXSACKIE B5 VIRUS solution, then aliquots of samples were collected at pre-set T60, – times – and immediately T0,T0.5, Tplaced 1, T2, Tin 3, contact T4, T5, Twith 15, T0.5 30, Tml 45, 
+In this case, logarithms calculated too, and of the titres, results are shown as below TCIDin 50Figure , were 
+2. It is possible to note that at a concentration of 0.6 
+
+mg/l the titre was eliminated after 4 minutes, while at a concentration of 0.2 the titre was eliminated after 30 minutes. By calculating the regression, it was possible to record the mean reduction times at 99%, 99.9% and 99.99%. Results are shown in Table III. Results show that at concentrations of 0.6 mg/l a 99.99% reduction of the viral titre was obtained after 1 minute, while at a concentration of 0.2 mg/l it was obtained after 3.73 minutes. 
+HEPATITIS A VIRUS As regards the Hepatitis A virus, the viral titre was cal- culated according to the PFU method. Figure 3 shows the trends of viral titres at various concentrations 
+Fig. 1. Trend of viral titre (log TCID50) at different ClO2 concentration and contact times Feline calicivirus. 
+Tab. II. Mean reduction times for various inactivation percentages. 
+ClO2 – Feline calicivirus – neutral pH 
+[ClO2] (mg/l) Mean time (min) to 
+obtain reduction of: 99% 99.9% 99.99% (CI 95%) (CI 95%) (CI 95%) 
+0.80 0.50 1.10 2.10 
+(0.16-0.74) (1.05-1.26) (2.02-2.22) 
+0.40 1.24 3.48 9.59 
+(0.98-1.52) (3.10-3.73) (9.16-9.81) 
+0.20 2.20 6.20 15.50 
+(1.80-2.09) (5.90-6.90) (15.20-15.90) 
+Tab. III. Mean reduction times at various inactivation times. 
+ClO2 – Coxsackie Virus B5 – neutral pH 
+[ClO2] (mg/l) Mean time (min) to 
+obtain reduction of: 99% 99.9% 99.99% (CI 95%) (CI 95%) (CI 95%) 
+0.60 0.12 0.34 1.00 
+(0.08-0.17) (0.27-0.45) (0.87-1.15) 
+0.40 0.57 1.18 2.41 
+(0.41-0.79) (0.94-1.47) (2.20-2.73) 
+0.20 0.63 1.52 3.73 
+(0.45-0.89) (1.18-1.95) (3.18-4.38) 
+INVESTIGATION ON VIRUCIDAL ACTIVITY OF CHLORINE DIOXIDE 
+93 
+At a concentration of 0.8 mg/l the titre was completely eliminated after only 30 seconds, while at concentra- tions of 0.4 complete elimination was obtained after 5 minutes. Finally, mean reduction times for elimination at various percentages were calculated here, too, using the regres- sion analysis as shown in Table IV. 
+Considerations and Conclusions 
+Chlorine dioxide is an excellent bactericidal agent, as has been reported in various studies, although its viru- cidal activity has not been thoroughly investigated as yet [6-12]. 
+The inactivation kinetics of Poliovirus 1 under ex- perimental conditions have shown that it has a good oxidizing effect [13]. Our results have shown that it is only with concentra- tions greater than 0.6 mg/l that inactivation is obtained quickly for HAV and for Feline calicivirus, and only Coxsackie B5 shows great sensitivity at all concentra- tions assayed. If these data are compared to the inactivation kinetics we performed on Poliovirus 1, the greater resistance 
+of Calicivirus to Chlorine dioxide is confirmed [14]. This result is particularly important in that it confirms that the Norwalk virus, which the Feline calicivirus is a surrogate of, presents considerable resistance to hypochlorite and is also characterized by strong resist- ance to Chlorine dioxide. This needs to be taken into account in sanitizing procedures applied to processing systems as well as in direct disinfection treatments of foodstuffs which may be involved as carriers of this virus. 
+
+Fig. 2. Trend of viral titre (log TCID50) at different ClO2 concentration and contact times Coxsackie B5 virus. 
+Fig. 3. Trend of viral titre (log PFU) at different ClO2 concentration and contact times Hepatitis A virus. 
+R. ZONI ET AL. 
+94 
+INVESTIGATION ON VIRUCIDAL ACTIVITY OF CHLORINE DIOXIDE 
+Tab. IV. Mean reduction times at various inactivation percentages. 
+ClO2 – Hepatitis A virus – neutral pH 
+[ClO2] (mg/l) Mean time (min) to obtain reduction of: 
+99% 99.9% 99.99% (CI 95%) (CI 95%) (CI 95%) 
+0.80 0.26 0.35 0.43 
+* * * 
+0.60 0.53 0.85 1.45 
+(0.41-0.58) (0.76-0.94) (1.38-1.53) 
+0.40 2.35 6.79 19.58 
+(1.63-3.40) (5.52-8.16) (18.70-20.50) 
+* It was impossible to calculate confidence limits values because of the very short viral inactivation time. 
+
+References 
+[1] Koopmans M, Duizer E. Food viruses: an emerging problem. 
+Intern J Food Microbiol 2004;90:23-41. [2] Guzzella L, Monarca S, Zani C, Feretti D, Zerbini I, Buschini A, et al. In vitro potential genotoxic effect of surface drinking water treated with chlorine and alternative disinfectants. Mutation research 2004;564:179-93. [3] Sansebastiano G, Cesari C, Bellelli E. Further investigation on water 
+disinfection by chlorine dioxide. Igiene Moderna 1986;85:358-80. [4] Sansebastiano G. Epidemiological review on chlorine dioxide. In: Chlorine Dioxide and Disinfection. Vol. 17. Milano: C.I.P.A. Publisher 1997, p. 63-71. [5] Ruzic C. Chlorine dioxide-based water treatment in the food industry. In: Chlorine Dioxide and Disinfection. Vol. 17. Milano: C.I.P.A. Publisher 1997, p. 197-209. [6] Aieta EM, Berg JB. A review of chlorine dioxide in drinking 
+water treatment. JAWWA 1986;78:62-72. [7] Alvarez ME. O’Brien RT. Mechanisms of inactivation of poliovirus by chlorine dioxide and iodine. Appl Environ Microbiol 1982;44:1064-71. 
+95 
+[8] Bernarde MA, Israel BM, Olivieri VP, Granstrom ML. Efficiency of chlorine dioxide as a bactericide. Appl Microbiol 1965;13:776-80. [9] Chen YS, Vaughn JM. Inactivation of human and simian rotaviruses by chlorine dioxide. Appl Environ Microbiol 1990;56:1363-6. [10] Latshaw CL. Chlorine dioxide: effective broad-spectrum biocide for white-water systems. Tappi Journal 1994;78:163-6. [11] Roller SD. Some aspects of the mode of action of chlorine dioxide on Bacteria. Baltimore: M.S. Thesis, Johns Hopkins University 1978. [12] Scarpino PV. Virucidal effectiveness of disinfection processes- chlorine dioxide. In: Proceedings of the American Water Works Association, Annual Conference. 1979, p. 1-35. [13] Traenhart O, Kuwert E. Comparative studies on the action of chlorine and ozone on polioviruses in the reprocessing of drinking water in Essen. Zbl Bakt I Abt Orig 1975;160:305. [14] Sansebastiano G, Mori G, Tanzi ML, Cesari C, Bellelli E. Chlorine dioxide: methods of analysis and kinetics of inactivation of poliovirus type 1. Igiene Moderna 1983;79:61-91. 
+■ Received on June 6, 2006. Accepted on March 28, 2007. 
+■ Corrispondence: Prof G. Sansebastiano, Department of Public Health, Sec. Hygiene, University of Parma, Italy, via Volturno 39, 43100 Parma, Italy 

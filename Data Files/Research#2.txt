@@ -1,0 +1,320 @@
+PCT 
+WORLD INTELLECTUAL PROPERTY ORGANIZATION 
+International Bureau 
+INTERNATIONAL APPLICATION PUBLISHED UNDER THE PATENT COOPERATION TREATY (PCT) (51) International Patent Classification 4 : 
+(11) International Publication Number: WO 88/ 01507 A61K 31/19, 33/14, A61L 2/16 
+(43) International Publication Date: 10 March 1988 (10.03.88) 
+(21) International Application Number: 
+PCT/US87/00288 
+(22) International Filing Date: 
+6 February 1987 (06.02.87) 
+892,058 
+(31) Priority Application Number: (32) Priority Date: (33) Priority Country: 
+(81) Designated States: AT, AT (European patent), AU, BB, 
+BE (European patent), BG, BR, CF (OAPI patent), CG (OAPI patent), CH, CH (European patent), CM (OAPI patent), DE, DE (European patent), DK, FI, FR (European patent), GA (OAPI patent), GB, GB (European patent), HU, IT (European patent), JP, KP, KR, LK, LU, LU (European patent), MC, MG, ML (OAPI patent), MR (OAPI patent), MW, NL, NL (European patent), NO, RO, SD, SE, SE (European patent), SN (OAPI patent), SU, TD (OAPI patent), 
+TG (OAPI patent). 
+1 August 1986 (01.08.86) 
+US 
+(71)(72) Applicant and Inventor: RUBINSTEIN, Alan, I. 
+(US/US); 803 North Bedford Drive, Beverly Hills, CA 90210 (US). 
+Published 
+With international search report. 
+(74) Agent: LIPPMAN, Peter, I.; Romney, Golant, Martin 
+& Ashen, 10920 Wilshire Blvd., Suite 1000, Los An geles, CA 90024 (US). 
+(54) Title: A METHOD TO TREAT BLOOD 
+(57) Abstract 
+A method whereby units of red blood cells, derived from units of blood which may contain viruses such as HTLV III, the causative agent of Acquired Immune Deficiency Syndrome (AIDS), may be treated with a solution which contains approximately 0.13 percent sodium chlorite and 1.26 percent lactic acid diluted with a solution of approximately 0.9 per cent sodium chloride (normal saline). This chemical treatment will inactivate the HTLV-III virus, as well as other viruses. 
+This chemical treatment will not affect the function of the red blood cells. 
+FOR THE PURPOSES OF INFORMATION ONLY 
+Codes used to identify States party to the PCT on the front pages of pamphlets publishing international appli cations under the PCT. 
+FR France GA Gabon 
+ML Mali. MR Mauritania MY Malawi 
+NL Netherlands NO Norway RO Romania SD Sudan 
+AT Austria AU Australia BB Barbados BE Belgium BG Bulgaria BJ Benin BR Brazil 
+Central African Republic CG Congo CH Switzerland CM Cameroon DE Germany, Federal Republic of DK Denmark FI Finland 
+SE 
+Suedos 
+HU Hungary IT Italy JP Japan KP Democratic People's Republic 
+of Korea KR Republic of Korea LI Liechtenstein LK Sri Lanka LU Luxembourg MC Moaaco 
+MG Madagascar 
+SN SU TD TG 
+Senegal Soviet Union Chad Togo United States of America 
+WO 88/01507 
+PCT/US87/00288 
+A METHOD TO TREAT BLOOD 
+Previous Applications 
+This is a continuation in part application of Serial 
+No. 838, 253, filed 3/10/86. Disclosure 
+Units of blood, both red blood cells (RBC units) and units of plasma, have a well known risk for tramsitting Hepatitis B virus, non-A, non-B Hepatitis virus(es), and HTLV-III virus. HTLV-III is a human retrovirus which has been implicated in the causation of AIDS (See Gallo, R.C. et al.) Frequent detection and isolation of cytopathic retroviruses (HTLV-III) frm patients with AIDS and at risk for AIDS. Science 1984; 224:500-3. Also see: Savin, P.S. et al., Human T-Lymphotropic Retroviruses I Adult T-cell Leukemia - Lymphoma And 
+SUBSTITUTE SHEET 
+PCT/US87/00288 
+WO 88/01507 
+- 
+2 
+- 
+Acquired Immune Deficiency Syndrome, J. Clinical Immunol., 1984; 4:415-23. Wong-Staal F., Gallo, R.C., Human T-Lymphotropic Retroviruses, Nature 1985; 317:395-402). There is titus an important need to make units of blood safe for transfusion, that is to less the probability of transferring HTLV-III by blood transfusion would be of great importance. 
+Example 
+A solution (disinfectant) was prepared as follows: 
+LDtm disinfectant was obtained from Alcide corporation and was mixed as follows: One part LD base was mixed with ten parts normal saline, one part activator was added and diluted with normal saline to dilution of 1:200. this solution is composed of sodium chloride and lactic acid. The pH of the final solution (disinfectant) was adjusted to between 4 - 5. The final solution 
+contained sodium chloride and lactic acid, both at 
+concentration below 23. 
+Two aliquats of red blood cells from an American Red 
+cross unit of red blood cells was washed three times in normal saline. One aliquat of the washed red blood cells 
+(RBC) was labeled Experiment (EXP) and to this, which was 
+aprpoximately 1/3 filled, it waas filled with the above 
+prepared distinfectant, mixed and allowed to stand for 
+approximately 10-50 seconds. Then the cells were washed in normal saline four times, and resuspended in normal saline, no hemolysis was obsecved as compared to the control tube of RBC's which was washed identically as the experiment but to which no disinfectant was added. 
+SUBSTITUTE SHEET 
+WO 88/01507 
+PCT/US87/00288 - 3 - In order to verify that the RBC's treated with the disinfectant were suitable for transfusion an assay was performed onthem following several days storage innormal saline at aprpxoimately 4° centrigrade. Thus RBC 2, 3, DPG (hereinafter referred to as 2,3 DPG) and RBC ATP was performed following 37° C incubation in a solution of glucose, inorganic phophorus, potassium and magnesium. 
+The result of these assays, the methodology used, was as described (see Keith, A.S.: Reduced nicotinamide ademine denucleiotide-linked analysis of 2,3 diphophoglyceric acid: spectrophatometric and flurometric procedures, General Lab, clin. med., 77:470, 1971; see also see: J.A. Worek, D. Gruber, W., Bergneyer, H.U.: Adenosine, 5', triphosphate, determination with 3-phosphoglycerate kinase, in Bergmeyer, H.U. (ed): Methods of Enzyamtic Analysis, vol. 4, N.Y. Acadeic Press, 1974, p. 2097). 
+The presence of 2,3-diphosphoglyceric acid (DPG) 
+phosphatase activity in preparations of monophosphoglycerate mutase (PGM) from muscle and other 
+sources has been noted by several workers and was 
+exploited by Lowry and co-workers to measure the very low levels of 2,3-DPG in acid extracts of brain tissue. The products of the phosphatase, 3-phosphalglyceric acid (3-PGA), was measured flourometrically in a reduced nicotinamide adenine dinucleotide (NADH ) -linked reaction in which 3-PGA was converted stoichiometrically to glyceraldehyde 3-phosphate (G-3P) by phosphoglycerate kinase (PGK) and glyceraldehyde 3-phosphate dehydrogenase (G3PD). This fluorometric procedure was modified by the 
+2 
+SUBSTITUTE SHERT 
+. 
+WO 88/01507 
+PCT/US87/00288 
+author for measurement of the much higher concentrations 
+of 2,3-DPG in red cells. 
+Rose has reported that red cells 2,3-DPG phosphatase is stimulated by both pyrophosphate and 2-phosphoglycolic acid, a property which is shared by the phosphatase activity in muscle PGM. She has devised a spectrophotometric assay for 2,3-DPG with the use of 2-phosphoglycoate and PGM, converting the 3-PGA. formed to lactate. The fluorometric and spectrophotometric assays for 2,3-DPG described here are those which proved most versatile and reliable; they represent a composite of the methods of Lowry and co-workers, Rose and Liebowitz, and 
+czok and Eckert. 
+Materials and Methods 
+I 
+Imadazole (grade III), reduced glutathione (GSH), and hyrazine sulfate solution (No. 750-3) were obtained. 2-Phosphoglycolate was also obtained. Distilled water was passed through a mixed bed deionizer which greatly 
+reduced its fluorescence. 
+Preparation of samples; customarily i. vol. of whole blood is added to 2 vol. of ice-cold 6% (w/v) perchoric acid (PCA), mixed thoroughly, and left on ice for at least 15 minutes. The brown denatured protein is separated by centrifugation at 27,000 x g for 20 minutes at 2° C. The clear supernatant is neutralized with approximately 1/6 vol. of 2M KHCO2. 
+Spectrophotometric assay: All reagents are prepared as stock solutions and stored frozen, except imidazole and hydrazine which are stored at room temperature. Reactions are performed at 25 to 28° C (without 
+SUBSTITUTE SHEET 
+PCT/US87/00288 
+WO 88/01507 
+- 
+5 
+- 
+temperature control) in an automatic recording 
+spectrophometer in quartz semi-microcuvettes with 1.0 cm. path lengths at 340 mu. Por normal whole blood, neutral PCA extract (0.1 m1.) is added to 1.0 ml. aliquots of the reaction mixture. The volume of extract can be increased to at least 0.3 ml. without affecting the reaction mixture. The combined solution of G3PD and PGK (in e ull 
+is added after all the 3-PGA and 1,3-DPG has reacted (usually they are undetectable), the absorbance at 340 mu. is determined and PGM (in 5 ul) is added. The reaction normally goes to completed in 15 to 20 minutes, although this should be determined for each new set of reagents as the phosphatase activity of different lots of PGM varies slightly. The blank cuvette contains distilled water instead of PCA extract. Blanks containing PCA extract, but no enzymes, are usually identical, but this should be verified periodically. When 2-mer capethanol was substituted for GSH, sporadically high blanks 1.03 to .04 0.D. units per 10 minutes) were noted in the presence of neutral PCA extracts of whole blood without any added enzymes. 
+Flurometric assay: A sample size of PCA extract (2 to 5 ul) is employed depending on the hematocrit of the sample. Samples and standards are added with the same selected micropipette. The reaction is complete in 5 
+IS 
+minutes. 
+calculations: 
+2,3-DPG concentration is derived by 
+f 
+determining the difference in absorbance at 340 mu. before and after adding PGM corrected for the reagent blank (usually less than 0.010 0.D. units) with an 
+SUBSTITUTE SHEET 
+PCT/US87/00288 
+WO 88/01507 
+extinction coefficient of 6.22 0.D. units per millimole Of NADH the flurometric assay, the change in NADH fluorescence is compared with that of a 2,3 Def solution which has been standardized spectrophoemtrically. 
+There is significant deviation from linearity in the absence of hydrazine when the initial concentration of 
+obligatory liberation of inorganic phosphate from 2-3-DPG adversely affects the final ratio of 1,3-DPG to G-3-8 so that G-3-9 must be trapped with hydrazine, unless a large excess of NADH is employed. The potency of the hydrazine solution, unless freshly prepared, should be verified periodically by checking the linearity of a standard 
+curve. 
+The half time of the fluorometric assay is normally 
+less than 1 minute. Because of its great sensitivity, 
+very low concentrations of 2,3-DPG such as might occur during blood storage or in vitro experiments, can be easily measured. The accuracy of this method is determined largely by the quality of the micropipettes and the skill of the technician in handling them. 
+results in the conversion of both 2,3-DPG and 2-PGA to 3-PGA. In normal blood the concentration of 2-PGA is 300 times less than that of 2,3-DPG and can be ignored. However, under conditions where these compounds are more nearly equal (as in most tissues) discrimination may be more important. The assay can be modified such that an approximation of 2-PGA content can be obtained by adding PGM (5 ug per milliliter) without phosphoglycolate after 
+SUBSTITUTE SHEET 
+WO 88/01507 
+PCT/US87/00288 
+3-PGA has reacted. Under these conditions, 2-PGA will be 
+slowly. Selective activation of the phosphatase with 
+phosphoglycolate will then measure 2,3-DPG. This modification requires fluoruometric measurements of NDAH for sufficient sensitivity at the low levels of 2-PGA usually present in tissues. 
+The advantages of this method are several. Its most important aspect is that it is an 'endpoint' assay rather than a rate assay. The assay methods which relate. 
+2,3-DPG concentration to its catalytic effect on the PGM 
+f 
+O 
+reaction involve rate measurements which are much more likely to be affected by minor variations in assay conditions. "Rate" in these methods is often determined by an initial reading followed by a single additional reading at one time intervals assuming linearity; any deviations from linearity among different samples will therefore be undetected. Furthermore, the calculations depend on a standard curve of known purity. 
+The 'endpoint' assay on the contrary may be read at any convenient time after going to completion provided that the blank cuvette is read at a similar interval. The calculations are based on the molar extinction coefficient of NADH when determined spectrophotometrically and thus do not depend on a standard curve. If greater sensitivity is required, the fluorometric assay can be used. NO fractionation of the extracted material is required as in the total phosphate and chromotropic acid methods. The specificity, although 
+SUBSTITUTE SHEET 
+WO 88/01507 
+PCT/US87/00288 
+- 8 - not absolute because of the co-reaction of 2-PGA, is entirely adequate for most red cell applications where the 2-PGA concentration is neglibile. Selective activation of 2,3-PGA activity by phosphglycolate after 20-PGA has reacted can improve the specificity of the 
+1 
+M 
+assay. 
+The 'backward' reaction to G3P is more versatile 
+than the forward' reaction to lactate because the 
+concentrations of 3-PGA and 2-PGA are usually negligible compared to that of 2,3-DPG, whereas pyruvate may accumulate significantly under certain experimental conditions and the initial lactate dehyrogenase reaction may then exhaust much of the NADH. Furthermore, at very low concentrations of 2,3-DPG, the co-reaction of 2-PGA concentration exceeds that of 2-PGA by a factor of 5 to 10 in the intact cell. 
+RESULTS 
+The RBC ATP and 2,3-DPG of the sample of RBC treated with the disinfectant (Experiment) when compared to the sample of RBC's not treated showed no significant difference in their ability to regenerate RBC ATP and 2,3-DPG following incubation. These two enzymes (see References) are considered important predictors of RBC viability and suitability for transfusion. It is thus concluded that application of the disinfectant solution as prepared according to the method as described here and following washing with normal saline, the RBC's are suitable for transfusion, and these RBC's carry a much lessened risk (or total absence of risk) of transmitting 
+SUBSTITUTE SHËET 
+WO 88/01507 
+PCT/US87/00288 
+- 
+9 
+- 
+AIDS or other viral diseases, 
+The results following incubation of human plasma are listed in Table I. 
+TABLE I. The incubation experiments to determine the ability of the red cells to regenerate ATP and 2,3-DPG gave the following results: 
+control 
+Experiment 
+2,3-DPG 
+ATP 
+2,3-DPG 
+АТР 0 
+Ohr. 
+2 hrs, 
+1.79 
+1.34 
+2.89 
+4 hrs, 
+1.19 
+1.34 
+(Results are expressed in moles/gram Hb) 
+The incubations were performed at 37° C with the supplementation of glucose, inorganic phosphorus, potassium, and magnesium. 
+TABLE II 
+( Treatment of washed quantity of RBC's for approximately 4 minutes with the same solution as used for Table I, then the cells were washed in normal saline.) 
+The incubation experiments to determine the ability of the red cells to regenerate ATP 
+gave the following results: 
+the documention tempecémerase tarde termine the games the of 
+control 
+Experiment 
+ATP Our. 3.83 
+2 hrs. 4.35 
+ATP 5.28 
+(Results are ex pressed in umoles/ gram #b) 
+4.26 
+The incubations were performed at 37° C with the supplementation of glucose, inorganic phosphorus, potassium, and magnesium. 
+It should be noted that following 4 minutes of contact 
+with the disinfectant there was no evidence for hemolysis and no loss of ATP. 
+SUBSTITUTE SHEET 
+WO 88/01507 
+PCT/US87/00288 
+- 10 - 
+In the past, it has not been possible to treat units 
+of red blood cells with disinfectant, as this treatment 
+has been too toxic for the cells. However the development of the new disinfectants as well as automated cell washers (e.g. IBM 2292 cell washer) to wash units of red blood cells has opened up a new avenue in regard to sterilizing units for transfusion. 
+It has been reported that a laboratory disinfectant composed of approximately 0.23$ sodium chlorite and 1.268 lactic acid (LDtm Alcide, Norwalk, Conn.) can completely inactivate HTLV-III/LAV virus (see savin, P.S. et al., NEJM Vol. 33, No. 221 1416, 1985) at a dilution of 1:200 or less. 
+It is thus the intention of the inventor to describe a method, for example, whereby units of human red blood cells may first be separated from plasma and thereafter be exposed to a solution composed of approximately 0.23% Sodium Chlorate and 1.26% lactic acid (and then this solution may be diluted with 0.94 Naci up to 1:200) for a very short time (for example, a few seconds or minutes[s]) and thereafter the unit of red blood cells may be washed, for example using an automated cell washer 
+(e.g. IBM). And then following the washing in normal saline, the red blood cells are now ready and safe for transfusion, safe from transmitting AIDS, as well as other viruses which may be in blood, for example Hepatitis B and non-A, non-8 hepatitis virus(es) and LMV 
+virus and Epstein-Barr virus. 
+It has now been demonstrated that units of blood (red blood cells) may be safelý, economically sterilized. 
+SUBSTITUTE SHEET . 
+WO 88/01507 
+PCT/US87/00288 
+- ll - 
+while in a blood collection bag. 
+The entire process may 
+for example be automated using for example (IBM Cell washer) an automated cell washer. Thus the cell washer may be programmed to give the disinfectant at least a 200-fold dilution of its standard use dilution, let the disinfectant mix with the unit of red cells for a few seconds and then automatically wash the cells. This automation increases the utility of the invention, since now units may be washed rapidly and can now be applied on 
+a massive scale. 
+It should be understood that varying changes in the composition of the disinfectant and times for disinfection may be utilized withoạt departing from the scope and spirit of the invention. It is thus the intention of the inventor to be bounded only by the 
+following claims. 
+SUBSTITUTE SHEET 
+WO 88/01507 
+PCT/US87/00288 - 12 - 
+CLAIMS 1. A method to inactivate any microorganism in units of blood, said method comprising: 
+1(a). Adding disinfectant to the unit of blood and thereafter removing the disinfectant. 
+2. A method as described in claim I whereby the unit(s) of blood is a unit(s) of red blood cell.s 
+disinfectant is composed of lactic acid and sodium 
+chlorite diluted in normal saline such that the pH is 
+approximately that of saline. 
+; 4. A method as described in claim 1 wherein any microorganism is any virus. 
+4(a). A method as described in claim 4 wherein any 
+virus is HTLV-III virus. 
+4(b) 
+A method as described in claim 4 wherein any 
+virus is any hepatitis virus. 
+410). A method is described in claim 4 wherein any hepatitis virus consists of Hepatitis B, Hepatitis non-A, 
+non-B, Hepatitis delta agent (virus) and Hepatitis A. 
+5. A method as described in claim 1 wherein the disinfectant is composed of approximately 0.23 percent sodium chlorite and 1.26 percent lactic acid and may be 
+diluted with normal saline or a solutation of 
+approximately 0.9% Naci. 
+SUBSTITUTE SHEET 
+WO 88/01507 
+PCT/US87/00288 
+- 13 - 
+5(a). A method as in 5 wherein the disinfectant of 
+claim 5 is diluted from 1:2 to 1: 200.0 with normal saline 
+or a solution of approximately 0.94 Naci. 
+6. A method as in claim 2 wherein the disinfectant is added to an automated, or semi-automated machine such as a cell washer, for instance IBM Cell washer. 
+7. 
+A method as in claim 1 whereby the disinfectant 
+is kept in contact with the unit for a time period between approximately 0.5 seconds till 30 minutes. 
+7(a). A method as in claim I whereby the time period for contact with the disinfectant is approximately 0.2 minutes - 5 minutes. 
+8. 
+A method as in claim 7 whereby the unit is 
+shaken while in contact with the disinfectant. 
+9. A method as in claim 7 whereby the washing of the unit is done in an automated or semiautomated cell 
+washer, for example IBM Cell Washer. 
+11. A method to inactivate any microorganism in a unit of blood, said method comprising adding disinfectant to the unit in an automated cell washing unit, allowing the disinfectant to mix with the unit and thereafter washing the unit, to remove the disinfectant in the 
+automated cell washer. 
+SUBSTITUTE SHEET 
+PCT/US87/00288 
+WO 88/01507 
+- 14 - 
+12. A method to reduce infectivity of any viruses, especially the viruses causing AIDS (HTLV-III), said method comprising: 
+(a) A disinfectant composed of lactic acid, and sodium chlorite, both in concentrations of less than 2% and both in a solution of normal saline, and (b). Exposing unit(s) of Red Blood cells to this disinfectant for a time period sufficient to inactivate any AIDS virus(es) that may be present and then (c) Washing the unit of Red Blood cells with normal saline, sufficiently such that the disinfectant is not significantly present. 
+SUBSTITUTE SHEET 
+INTERNATIONAL SEARCH REPORT 
+International Application NpcT/U387/00288 1. CLASSIFICATION OF SUBJECT MATTER (it several classification symbols apply, indicate all) 3 According to International Patent Classification (IPC) or to both National Classification and IPC 
+IPC(4): A61 K 31/19, 33/14; A 61 L2/16 U.S. C1. 422/37; 424 / 101; 435/238 11. FIELDS SEARCHED 
+Minimum Documentation Searched - Classification System : 
+Classification Symbols 
+|_ 
+se_422/286_31; 424 410L, 530,13855 435/238; 514/833 
+Documentation Searched other than Minimum Documentation to the extent that such Documents are included in the fields Searched 5 
+III. DOCUMENTS CONSIDERED TO BE RELEVANT 11 Category • Citation of Document, 1'' with indication, where appropriate, of the relevant passages li 
+Relevant to Claim No.?" 
+4 
+4 
+1; (a), k. 4 
+US, A, 1,556,120 (MILLS) 06 OCTOBER 1925 1, 1(a), 2, SEE COLUMN 1, LINES 27-53 AND COLUMN 2, LINES 7, 7(a) 54-68. US, A, 2,134,679 (ALLEN) 01 NOVEMBER 1938 1, 1(a), 2, SEE COLUMN 1, LINES 1-9, COLUMN 2, LINES 10-55, COLUMN 3, LINES 1-13, AND COLUMN 6, LINES 24-31. US, A, 2,897, 123 (SINGHER) 28 JULY 1959 
+1, 1(a), 4, SEE COLUMN 1, LINES 67-72, COLUMN 2, LINES 4(b); 4(c) 11-6, 44-72 AND .COLUMN 3, LINES 1-8. 
+2, 7, 7(a 
+Y 
+US, A, 3,031,378 (ISHIDATE, ET AL.) 24 APRIL 1, 1(a), 2 i 1962, SEE COLUMN 1, LINES 14-37. 
+4, 4(b), 4( 
+US, A, 3,041,242 (BARR, ET AL) 26 JUNE 1962 
+SEE COLUMN 1, LINES 18-22, 57-71 AND COLUMN : 2, LINES 1-25. 
+1, 1(a), 4, 4 (b), 4 (c) 
+2 
+US, A, 3,100,737 (AUERSWALD, ET AL) 13 AUGUST 1963, SEE COLUMN 4, LINES 31-61. 
+1, 1(a), 2, 4(b), 4(c) 
+4 
+• Special categories of cited documents: 10 "A" document defining the general state of the art which is not 
+considered to be of particular relevance "E" earlier document but published on or after the international 
+filing date "L" document which may throw doubts on priority claim(s) or 
+which is cited to establish the publication date of another citation or other special reason (as specified) document referring to an oral disclosure, use, exhibition or other means document published prior to the international filing date but later than the priority date claimed 
+"T" later document published after the international filing date 
+or priority date and not in conflict with the application but cited to understand the principle or theory underlying the 
+invention "X" document of particular relevance; the claimed invention 
+cannot be considered novel or cannot be considered to 
+involve an inventive step "Y" document of particular relevance; the claimed invention 
+cannot be considered to involve an inventive step when the document is combined with one or more other such docu ments, such combination being obvious to a person skilled 
+in the art. "&" document member of the same patent family 
+HP" 
+IV. CERTIFICATION Date of the Actual Completion of the International Search? 
+Date of Mailing of this International Search Resort ? 
+15 MAY 1987 
+22 April 1987 
+International Searching Authority ? 
+Sigoratyre of Authorized Officer 20 
+ISA/US Form PCT/ISA/210 (second sheet) (May 1986) 
+Jivithfornbefatw 
+International Application No. 
+"PCT/US87/00288 (CONTINUED FROM THE SECOND SHEET) - 
+III. DOCUMENTS CONSIDERED TO BE RELEVANT 
+Category 
+Citation of Document, to with indication, where appropriate, of the relevant passages 17 
+Relevant to Claim No IX 
+US, E, Re. 27,359 (ILG) 09 May 1972 See column 2, lines 19-57. 
+6, 
+7, 7(a), 
+9, 
+1, 4, 
+1(a), 3, 7, 7(a), 
+US, A, 4,084, 747 (ALLIGER) 18 April 1978 See the Abstract, column 2, lines 60-68, colume 4, lines 32-64, column 6, lines. 22-26 column 1, lines 18-66 and column 8, lines 1-4. 
+2, 4(a), 4(b), 4(c), 5, 5(a), 11 12 
+US, A, 4,314,997 (SHANBROM) 09 February 1982 See the Abstract. 
+1, 1(a), 4, 4(b), 4(c) 1, 1(a), 4, 4(b), 4(c) 
+US, A, 4,481,189 (PRINCE) 06 November 1984 See the Abstract. 
+US, E, RE. 31, 779 (ALLIGER) 25 December 1984 1, 1(a), See the Abstract, column 2, lines 66-68, 
+4, 7, 70 column 3, lines 1-6, column 4, lines 39-68, 
+8 column 5, lines 1-3, columa 6, lines 30-44, 2, 4(a), column 1, lines 25-68 and column 8, lines 4(b), 4(c), 1-10. . 
+5, 5(a), 11, 
+12 . 
+&,P 
+US, A, 4,632,980 (ZEE, ET AL) 30 December 1986, See entire document. 
+1, 2, 4(a), 4(b), 7 
+Form PCT/ISA/210 (extra sheet) (May 1986) 

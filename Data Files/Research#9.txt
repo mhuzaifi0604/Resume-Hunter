@@ -1,0 +1,1706 @@
+TOXICOLOGICAL PROFILE FOR CHLORINE DIOXIDE AND CHLORITE 
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES Public Health Service Agency for Toxic Substances and Disease Registry 
+September 2004 
+ii CHLORINE DIOXIDE AND CHLORITE 
+DISCLAIMER 
+The use of company or product name(s) is for identification only and does not imply endorsement by the Agency for Toxic Substances and Disease Registry. 
+iii CHLORINE DIOXIDE AND CHLORITE 
+UPDATE STATEMENT 
+Toxicological Profile for Chlorine Dioxide and Chlorite, Draft for Public Comment was released in September 2002. This edition supersedes any previously released draft or final profile. 
+Toxicological profiles are revised and republished as necessary. For information regarding the update status of previously released profiles, contact ATSDR at: 
+Agency for Toxic Substances and Disease Registry Division of Toxicology/Toxicology Information Branch 1600 Clifton Road NE, Mailstop F-32 Atlanta, Georgia 30333 
+FOREWORD 
+This toxicological profile is prepared in accordance with guidelines* developed by the Agency for Toxic Substances and Disease Registry (ATSDR) and the Environmental Protection Agency (EPA). The original guidelines were published in the Federal Register on April 17, 1987. Each profile will be revised and republished as necessary. 
+The ATSDR toxicological profile succinctly characterizes the toxicologic and adverse health effects information for the hazardous substance described therein. Each peer-reviewed profile identifies and reviews the key literature that describes a hazardous substance's toxicologic properties. Other pertinent literature is also presented, but is described in less detail than the key studies. The profile is not intended to be an exhaustive document; however, more comprehensive sources of specialty information are referenced. 
+The focus of the profiles is on health and toxicologic information; therefore, each toxicological profile begins with a public health statement that describes, in nontechnical language, a substance's relevant toxicological properties. Following the public health statement is information concerning levels of significant human exposure and, where known, significant health effects. The adequacy of information to determine a substance's health effects is described in a health effects summary. Data needs that are of significance to protection of public health are identified by ATSDR and EPA. 
+Each profile includes the following: 
+(A) The examination, summary, and interpretation of available toxicologic information and 
+epidemiologic evaluations on a hazardous substance to ascertain the levels of significant human exposure for the substance and the associated acute, subacute, and chronic health effects; 
+(B) A determination of whether adequate information on the health effects of each substance is 
+available or in the process of development to determine levels of exposure that present a significant risk to human health of acute, subacute, and chronic health effects; and 
+(C) Where appropriate, identification of toxicologic testing needed to identify the types or levels of 
+exposure that may present significant risk of adverse health effects in humans. 
+The principal audiences for the toxicological profiles are health professionals at the Federal, State, and local levels; interested private sector organizations and groups; and members of the public. 
+This profile reflects ATSDR's assessment of all relevant toxicologic testing and information that has been peer-reviewed. Staff of the Centers for Disease Control and Prevention and other Federal scientists have also reviewed the profile. In addition, this profile has been peer-reviewed by a nongovernmental panel and was made available for public review. Final responsibility for the contents and views expressed in this toxicological profile resides with ATSDR. 
+nhi Carine Inkrethina Julie Louise Gerberding, M.1, M.P.H. 
+Administrator Agency for Toxic Substances and 
+Disease Registry 
+vi CHLORINE DIOXIDE AND CHLORITE 
+*Legislative Background 
+The toxicological profiles are developed in response to the Superfund Amendments and Reauthorization Act (SARA) of 1986 (Public law 99-499) which amended the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA or Superfund). This public law directed ATSDR to prepare toxicological profiles for hazardous substances most commonly found at facilities on the CERCLA National Priorities List and that pose the most significant potential threat to human health, as determined by ATSDR and the EPA. The availability of the revised priority list of 275 hazardous substances was announced in the Federal Register on November 17, 1997 (62 FR 61332). For prior versions of the list of substances, see Federal Register notices dated April 29, 1996 (61 FR 18744); April 17, 1987 (52 FR 12866); October 20, 1988 (53 FR 41280); October 26, 1989 (54 FR 43619); October 17, 1990 (55 FR 42067); October 17, 1991 (56 FR 52166); October 28, 1992 (57 FR 48801); and February 28, 1994 (59 FR 9486). Section 104(i)(3) of CERCLA, as amended, directs the Administrator of ATSDR to prepare a toxicological profile for each substance on the list. 
+vii CHLORINE DIOXIDE AND CHLORITE 
+QUICK REFERENCE FOR HEALTH CARE PROVIDERS 
+Toxicological Profiles are a unique compilation of toxicological information on a given hazardous substance. Each profile reflects a comprehensive and extensive evaluation, summary, and interpretation of available toxicologic and epidemiologic information on a substance. Health care providers treating patients potentially exposed to hazardous substances will find the following information helpful for fast answers to often-asked questions. 
+Primary Chapters/Sections of Interest 
+Chapter 1: Public Health Statement: The Public Health Statement can be a useful tool for educating patients about possible exposure to a hazardous substance. It explains a substance’s relevant toxicologic properties in a nontechnical, question-and-answer format, and it includes a review of the general health effects observed following exposure. 
+Chapter 2: Relevance to Public Health: The Relevance to Public Health Section evaluates, interprets, and assesses the significance of toxicity data to human health. 
+Chapter 3: Health Effects: Specific health effects of a given hazardous compound are reported by type of health effect (death, systemic, immunologic, reproductive), by route of exposure, and by length of exposure (acute, intermediate, and chronic). In addition, both human and animal studies are reported in this section. 
+NOTE: Not all health effects reported in this section are necessarily observed in the clinical setting. Please refer to the Public Health Statement to identify general health effects observed following exposure. 
+Pediatrics: Four new sections have been added to each Toxicological Profile to address child health issues: 
+Section 1.6 How Can (Chemical X) Affect Children? Section 1.7 How Can Families Reduce the Risk of Exposure to (Chemical X)? Section 3.7 Children’s Susceptibility Section 6.6 Exposures of Children 
+Other Sections of Interest: 
+Section 3.8 Biomarkers of Exposure and Effect Section 3.11 Methods for Reducing Toxic Effects 
+ATSDR Information Center 
+Phone: 1-888-42-ATSDR or (404) 498-0110 Fax: (404) 498-0093 E-mail: atsdric@cdc.gov Internet: http://www.atsdr.cdc.gov 
+The following additional material can be ordered through the ATSDR Information Center: 
+Case Studies in Environmental Medicine: Taking an Exposure History—The importance of taking an exposure history and how to conduct one are described, and an example of a thorough exposure history is provided. Other case studies of interest include Reproductive and Developmental Hazards; Skin Lesions and Environmental Exposures; Cholinesterase-Inhibiting Pesticide Toxicity; and numerous chemical- specific case studies. 
+viii CHLORINE DIOXIDE AND CHLORITE 
+Managing Hazardous Materials Incidents is a three-volume set of recommendations for on-scene (prehospital) and hospital medical management of patients exposed during a hazardous materials incident. Volumes I and II are planning guides to assist first responders and hospital emergency department personnel in planning for incidents that involve hazardous materials. Volume III—Medical Management Guidelines for Acute Chemical Exposures—is a guide for health care professionals treating patients exposed to hazardous materials. 
+Fact Sheets (ToxFAQs) provide answers to frequently asked questions about toxic substances. 
+Other Agencies and Organizations 
+The National Center for Environmental Health (NCEH) focuses on preventing or controlling disease, injury, and disability related to the interactions between people and their environment outside the workplace. Contact: NCEH, Mailstop F-29, 4770 Buford Highway, NE, Atlanta, GA 30341-3724 • Phone: 770-488-7000 • FAX: 770-488-7015. 
+The National Institute for Occupational Safety and Health (NIOSH) conducts research on occupational diseases and injuries, responds to requests for assistance by investigating problems of health and safety in the workplace, recommends standards to the Occupational Safety and Health Administration (OSHA) and the Mine Safety and Health Administration (MSHA), and trains professionals in occupational safety and health. Contact: NIOSH, 200 Independence Avenue, SW, Washington, DC 20201 • Phone: 800-356­ 4674 or NIOSH Technical Information Branch, Robert A. Taft Laboratory, Mailstop C-19, 4676 Columbia Parkway, Cincinnati, OH 45226-1998 • Phone: 800-35-NIOSH. 
+The National Institute of Environmental Health Sciences (NIEHS) is the principal federal agency for biomedical research on the effects of chemical, physical, and biologic environmental agents on human health and well-being. Contact: NIEHS, PO Box 12233, 104 T.W. Alexander Drive, Research Triangle Park, NC 27709 • Phone: 919-541-3212. 
+Referrals 
+The Association of Occupational and Environmental Clinics (AOEC) has developed a network of clinics in the United States to provide expertise in occupational and environmental issues. Contact: AOEC, 1010 Vermont Avenue, NW, #513, Washington, DC 20005 • Phone: 202-347-4976 • FAX: 202-347­ 4950 • e-mail: AOEC@AOEC.ORG • Web Page: http://www.aoec.org/. 
+The American College of Occupational and Environmental Medicine (ACOEM) is an association of physicians and other health care providers specializing in the field of occupational and environmental medicine. Contact: ACOEM, 55 West Seegers Road, Arlington Heights, IL 60005 • Phone: 847-818­ 1800 • FAX: 847-818-9266. 
+ix CHLORINE DIOXIDE AND CHLORITE 
+CONTRIBUTORS 
+CHEMICAL MANAGER(S)/AUTHOR(S): 
+Jessilynn B. Taylor, M.S. ATSDR, Division of Toxicology, Atlanta, GA 
+David W. Wohlers, Ph.D. Richard Amata, M.S. Syracuse Research Corporation, North Syracuse, NY 
+THE PROFILE HAS UNDERGONE THE FOLLOWING ATSDR INTERNAL REVIEWS: 
+1. Health Effects Review. The Health Effects Review Committee examines the health effects 
+chapter of each profile for consistency and accuracy in interpreting health effects and classifying end points. 
+2. Minimal Risk Level Review. The Minimal Risk Level Workgroup considers issues relevant to 
+substance-specific Minimal Risk Levels (MRLs), reviews the health effects database of each profile, and makes recommendations for derivation of MRLs. 
+3. Data Needs Review. The Research Implementation Branch reviews data needs sections to assure 
+consistency across profiles and adherence to instructions in the Guidance. 
+xi CHLORINE DIOXIDE AND CHLORITE 
+PEER REVIEW 
+A peer review panel was assembled for chlorine dioxide and chlorite. The panel consisted of the following members: 
+1. Dr. Mohamed S. Abdel-Rahman, Professor of Pharmacology and Physiology, Director of 
+Toxicology, New Jersey Medical School, Newark, New Jersey; 
+2. Dr. Syed M. GhiasUddin, Toxicologist and Section Chief, Environmental Toxicology and 
+Chemistry Section, Indiana Department of Environmental Management, Indianapolis, Indiana; and 
+3. Dr. John S. Reif, Professor and Chairman, Department of Environmental Health, Colorado State 
+University, Ft. Collins, Colorado. 
+These experts collectively have knowledge of chlorine dioxide's and chlorite’s physical and chemical properties, toxicokinetics, key health end points, mechanisms of action, human and animal exposure, and quantification of risk to humans. All reviewers were selected in conformity with the conditions for peer review specified in Section 104(I)(13) of the Comprehensive Environmental Response, Compensation, and Liability Act, as amended. 
+Scientists from the Agency for Toxic Substances and Disease Registry (ATSDR) have reviewed the peer reviewers' comments and determined which comments will be included in the profile. A listing of the peer reviewers' comments not incorporated in the profile, with a brief explanation of the rationale for their exclusion, exists as part of the administrative record for this compound. A list of databases reviewed and a list of unpublished documents cited are also included in the administrative record. 
+The citation of the peer review panel should not be understood to imply its approval of the profile's final content. The responsibility for the content of this profile lies with the ATSDR. 
+xiii CHLORINE DIOXIDE AND CHLORITE 
+CONTENTS 
+DISCLAIMER ..............................................................................................................................................ii UPDATE STATEMENT .............................................................................................................................iii FOREWORD ................................................................................................................................................v QUICK REFERENCE FOR HEALTH CARE PROVIDERS....................................................................vii CONTRIBUTORS.......................................................................................................................................ix PEER REVIEW ...........................................................................................................................................xi CONTENTS...............................................................................................................................................xiii LIST OF FIGURES ..................................................................................................................................xvii LIST OF TABLES.....................................................................................................................................xix 
+1. PUBLIC HEALTH STATEMENT..........................................................................................................1 1.1 WHAT ARE CHLORINE DIOXIDE AND CHLORITE?..............................................................1 1.2 WHAT HAPPENS TO CHLORINE DIOXIDE AND CHLORITE WHEN THEY ENTER 
+THE ENVIRONMENT?.................................................................................................................. 2 1.3 HOW MIGHT I BE EXPOSED TO CHLORINE DIOXIDE AND CHLORITE? .........................2 1.4 HOW CAN CHLORINE DIOXIDE AND CHLORITE ENTER AND LEAVE MY BODY? ......3 1.5 HOW CAN CHLORINE DIOXIDE AND CHLORITE AFFECT MY HEALTH? .......................3 1.6 HOW CAN CHLORINE DIOXIDE AND CHLORITE AFFECT CHILDREN?...........................4 1.7 HOW CAN FAMILIES REDUCE THE RISK OF EXPOSURE TO CHLORINE DIOXIDE 
+AND CHLORITE ............................................................................................................................ 5 1.8 IS THERE A MEDICAL TEST TO DETERMINE WHETHER I HAVE BEEN EXPOSED 
+TO CHLORINE DIOXIDE AND CHLORITE? ............................................................................. 5 1.9 WHAT RECOMMENDATIONS HAS THE FEDERAL GOVERNMENT MADE TO 
+PROTECT HUMAN HEALTH? ..................................................................................................... 5 1.10 WHERE CAN I GET MORE INFORMATION?............................................................................6 
+2. RELEVANCE TO PUBLIC HEALTH ...................................................................................................9 
+2.1 BACKGROUND AND ENVIRONMENTAL EXPOSURES TO CHLORINE DIOXIDE 
+AND CHLORITE IN THE UNITED STATES...............................................................................9 2.2 SUMMARY OF HEALTH EFFECTS ............................................................................................ 9 2.3 MINIMAL RISK LEVELS............................................................................................................ 11 
+3. HEALTH EFFECTS..............................................................................................................................15 3.1 INTRODUCTION ......................................................................................................................... 15 3.2 DISCUSSION OF HEALTH EFFECTS BY ROUTE OF EXPOSURE.......................................15 3.2.1 Inhalation Exposure .............................................................................................................. 17 3.2.1.1 Death.................................................................................................................................17 3.2.1.2 Systemic Effects ............................................................................................................... 18 3.2.1.3 Immunological and Lymphoreticular Effects ................................................................... 24 3.2.1.4 Neurological Effects ......................................................................................................... 24 3.2.1.5 Reproductive Effects......................................................................................................... 24 3.2.1.6 Developmental Effects...................................................................................................... 24 3.2.1.7 Cancer...............................................................................................................................24 3.2.2 Oral Exposure........................................................................................................................ 25 3.2.2.1 Death.................................................................................................................................25 3.2.2.2 Systemic Effects ............................................................................................................... 26 3.2.2.3 Immunological and Lymphoreticular Effects ................................................................... 37 3.2.2.4 Neurological Effects ......................................................................................................... 38 
+CHLORINE DIOXIDE AND CHLORITE xiv 
+3.2.2.5 Reproductive Effects......................................................................................................... 38 3.2.2.6 Developmental Effects...................................................................................................... 39 3.2.2.7 Cancer...............................................................................................................................45 3.2.3 Dermal Exposure................................................................................................................... 47 3.2.3.1 Death.................................................................................................................................47 3.2.3.2 Systemic Effects ............................................................................................................... 47 3.2.3.3 Immunological and Lymphoreticular Effects ................................................................... 48 3.2.3.4 Neurological Effects ......................................................................................................... 48 3.2.3.5 Reproductive Effects......................................................................................................... 48 3.2.3.6 Developmental Effects...................................................................................................... 48 3.2.3.7 Cancer...............................................................................................................................48 3.3 GENOTOXICITY ......................................................................................................................... 49 3.4 TOXICOKINETICS ...................................................................................................................... 50 3.4.1 Absorption.............................................................................................................................50 3.4.1.1 Inhalation Exposure .......................................................................................................... 50 3.4.1.2 Oral Exposure ................................................................................................................... 50 3.4.1.3 Dermal Exposure .............................................................................................................. 51 3.4.2 Distribution ........................................................................................................................... 51 3.4.2.1 Inhalation Exposure .......................................................................................................... 51 3.4.2.2 Oral Exposure ................................................................................................................... 51 3.4.2.3 Dermal Exposure .............................................................................................................. 52 3.4.3 Metabolism............................................................................................................................52 3.4.3.1 Inhalation Exposure .......................................................................................................... 52 3.4.3.2 Oral Exposure ................................................................................................................... 52 3.4.3.3 Dermal Exposure .............................................................................................................. 53 3.4.4 Elimination and Excretion..................................................................................................... 53 3.4.4.1 Inhalation Exposure .......................................................................................................... 53 3.4.4.2 Oral Exposure ................................................................................................................... 53 3.4.4.3 Dermal Exposure .............................................................................................................. 53 3.4.5 Physiologically Based Pharmacokinetic (PBPK)/Pharmacodynamic (PD) Models ............. 54 3.5 MECHANISMS OF ACTION....................................................................................................... 55 3.5.1 Pharmacokinetic Mechanisms............................................................................................... 55 3.5.2 Mechanisms of Toxicity........................................................................................................ 57 3.5.3 Animal-to-Human Extrapolations ......................................................................................... 58 3.6 TOXICITIES MEDIATED THROUGH THE NEUROENDOCRINE AXIS ..............................58 3.7 CHILDREN’S SUSCEPTIBILITY ............................................................................................... 59 3.8 BIOMARKERS OF EXPOSURE AND EFFECT......................................................................... 61 3.8.1 Biomarkers Used to Identify or Quantify Exposure to Chlorine Dioxide and Chlorite........62 3.8.2 Biomarkers Used to Characterize Effects Caused by Chlorine Dioxide and Chlorite .......... 63 3.9 INTERACTIONS WITH OTHER CHEMICALS......................................................................... 63 3.10 POPULATIONS THAT ARE UNUSUALLY SUSCEPTIBLE ................................................... 63 3.11 METHODS FOR REDUCING TOXIC EFFECTS ....................................................................... 64 3.11.1 Reducing Peak Absorption Following Exposure .................................................................. 64 3.11.2 Reducing Body Burden ......................................................................................................... 64 3.11.3 Interfering with the Mechanism of Action for Toxic Effects................................................65 3.12 ADEQUACY OF THE DATABASE ............................................................................................ 65 3.12.1 Existing Information on Health Effects of Chlorine Dioxide and Chlorite...........................65 3.12.2 Identification of Data Needs ................................................................................................. 67 3.12.3 Ongoing Studies .................................................................................................................... 71 
+4. CHEMICAL AND PHYSICAL INFORMATION................................................................................73 
+CHLORINE DIOXIDE AND CHLORITE xv 
+4.1 CHEMICAL IDENTITY ............................................................................................................... 73 4.2 PHYSICAL AND CHEMICAL PROPERTIES ............................................................................ 73 
+5. PRODUCTION, IMPORT/EXPORT, USE, AND DISPOSAL............................................................77 5.1 PRODUCTION..............................................................................................................................77 5.2 IMPORT/EXPORT........................................................................................................................79 5.3 USE................................................................................................................................................79 5.4 DISPOSAL .................................................................................................................................... 82 
+6. POTENTIAL FOR HUMAN EXPOSURE ...........................................................................................85 6.1 OVERVIEW .................................................................................................................................. 85 6.2 RELEASES TO THE ENVIRONMENT ...................................................................................... 85 6.2.1 Air ......................................................................................................................................... 85 6.2.2 Water.....................................................................................................................................87 6.2.3 Soil ........................................................................................................................................ 87 6.3 ENVIRONMENTAL FATE .......................................................................................................... 90 6.3.1 Transport and Partitioning..................................................................................................... 90 6.3.2 Transformation and Degradation .......................................................................................... 90 6.3.2.1 Air.....................................................................................................................................91 6.3.2.2 Water.................................................................................................................................91 6.3.2.3 Sediment and Soil ............................................................................................................. 95 6.3.2.4 Other Media ...................................................................................................................... 95 6.4 LEVELS MONITORED OR ESTIMATED IN THE ENVIRONMENT ..................................... 95 6.4.1 Air ......................................................................................................................................... 95 6.4.2 Water.....................................................................................................................................96 6.4.3 Sediment and Soil ................................................................................................................. 98 6.4.4 Other Environmental Media.................................................................................................. 99 6.5 GENERAL POPULATION AND OCCUPATIONAL EXPOSURE............................................ 99 6.6 EXPOSURES OF CHILDREN ................................................................................................... 100 6.7 POPULATIONS WITH POTENTIALLY HIGH EXPOSURES................................................ 101 6.8 ADEQUACY OF THE DATABASE .......................................................................................... 101 6.8.1 Identification of Data Needs ............................................................................................... 101 6.8.2 Ongoing Studies .................................................................................................................. 104 
+7. ANALYTICAL METHODS ...............................................................................................................105 7.1 BIOLOGICAL MATERIALS ..................................................................................................... 105 7.2 ENVIRONMENTAL SAMPLES ................................................................................................ 105 7.3 ADEQUACY OF THE DATABASE .......................................................................................... 110 7.3.1 Identification of Data Needs ............................................................................................... 110 7.3.2 Ongoing Studies .................................................................................................................. 111 
+8. REGULATIONS AND ADVISORIES ...............................................................................................113 
+9. REFERENCES .................................................................................................................................... 117 
+10. GLOSSARY ...................................................................................................................................... 137 
+xvi CHLORINE DIOXIDE AND CHLORITE 
+APPENDICES 
+A. ATSDR MINIMAL RISK LEVELS AND WORKSHEETS .............................................................A-1 
+B. USER'S GUIDE ..................................................................................................................................B-1 
+C. ACRONYMS, ABBREVIATIONS, AND SYMBOLS......................................................................C-1 
+D. INDEX ................................................................................................................................................D-1 
+xvii CHLORINE DIOXIDE AND CHLORITE 
+LIST OF FIGURES 
+3-1 Levels of Significant Exposure to Chlorine Dioxide and Chlorite—Inhalation ............................ 21 
+3-2 Levels of Significant Exposure to Chlorine Dioxide and Chlorite—Oral ..................................... 31 
+3-3 Conceptual Representation of a Physiologically Based Pharmacokinetic (PBPK) Model for a 
+Hypothetical Chemical Substance ................................................................................................. 56 
+3-4 Existing Information on Health Effects of Chlorine Dioxide and Chlorite ................................... 66 
+6-1 Frequency of NPL Sites with Chlorine Dioxide and Chlorite Contamination...............................86 
+6-2 Percentage of POTW Facilities Reporting to ICR vs. Level of Chlorite in Distribution System 
+Water..............................................................................................................................................97 
+xix CHLORINE DIOXIDE AND CHLORITE 
+LIST OF TABLES 
+3-1 Levels of Significant Exposure to Chlorine Dioxide and Chlorite—Inhalation ............................ 19 
+3-2 Levels of Significant Exposure to Chlorine Dioxide and Chlorite—Oral ..................................... 27 
+4-1 Chemical Identity of Chlorine Dioxide and Sodium Chlorite .......................................................74 
+4-2 Physical and Chemical Properties of Chlorine Dioxide and Sodium Chlorite ..............................75 
+5-1 Facilities that Produce, Process, or Use Chlorine Dioxide ............................................................ 78 
+5-2 Publicly Owned Treatment Works (POTW) Utilizing Chlorine Dioxide for Water Treatment 
+in 1995 ........................................................................................................................................... 81 
+6-1 Releases to the Environment from Facilities that Produce, Process, or Use Chlorine Dioxide.....88 
+6-2 Chlorine Speciation in Aqueous Solutions .................................................................................... 92 
+7-1 Analytical Methods for Determining Chlorine Dioxide and Chlorite in Environmental 
+Samples........................................................................................................................................107 
+8-1 Regulations and Guidelines Applicable to Chlorine Dioxide and Chlorite ................................. 114 
+1 CHLORINE DIOXIDE AND CHLORITE 1. PUBLIC HEALTH STATEMENT 
+This public health statement tells you about chlorine dioxide and chlorite and the effects of 
+exposure to them. 
+The Environmental Protection Agency (EPA) identifies the most serious hazardous waste sites in 
+the nation. These sites are then placed on the National Priorities List (NPL) and are targeted for 
+long-term federal clean-up activities. Chlorine dioxide and chlorite have not been found in any 
+of the 1,647 current or former NPL sites. Although the total number of NPL sites evaluated for 
+these substances is not known, the possibility exists that chlorine dioxide and chlorite may be 
+found in the future as more sites are evaluated. This information is important because these sites 
+may be sources of exposure and exposure to these substances may harm you. 
+When a substance is released either from a large area, such as an industrial plant, or from a 
+container, such as a drum or bottle, it enters the environment. Such a release does not always 
+lead to exposure. You can be exposed to a substance only when you come in contact with it. 
+You may be exposed by breathing, eating, or drinking the substance, or by skin contact. 
+If you are exposed to chlorine dioxide or chlorite, many factors will determine whether you will 
+be harmed. These factors include the dose (how much), the duration (how long), and how you 
+come in contact with them. You must also consider any other chemicals you are exposed to and 
+your age, sex, diet, family traits, lifestyle, and state of health. 
+1.1 WHAT ARE CHLORINE DIOXIDE AND CHLORITE? 
+Chlorine dioxide is a yellow to reddish-yellow gas that can decompose rapidly in air. Because it 
+is a hazardous gas, chlorine dioxide is always made at the location where it is used. Chlorine 
+dioxide is used as a bleach at pulp mills, which make paper and paper products, and in public 
+water-treatment facilities, to make water safe for drinking. It has also been used to 
+decontaminate public buildings. Chlorine dioxide is soluble in water and will react rapidly with 
+other compounds. When it reacts in water, chlorine dioxide forms chlorite ion, which is also a 
+2 CHLORINE DIOXIDE AND CHLORITE 
+1. PUBLIC HEALTH STATEMENT 
+very reactive chemical. Because chlorine dioxide is very reactive, it is able to kill bacteria and 
+microorganisms in water. About 5% of large water-treatment facilities (serving more than 
+100,000 persons) in the United States use chlorine dioxide to treat drinking water. An estimated 
+12 million persons may be exposed in this way to chlorine dioxide and chlorite ions. In 
+communities that use chlorine dioxide to treat drinking water, chlorine dioxide and its by- 
+product, chlorite ions, may be present at low levels in tap water. 
+In this profile, the term “chlorite” will be used to refer to “chlorite ion,” which is a water-soluble 
+ion. Chlorite ion can combine with metal ions to form solid salts (e.g., sodium chlorite). Sodium 
+chlorite dissolves in water and forms chlorite ions and sodium ions. More than 80% of all 
+chlorite (present as sodium chlorite) is used to make chlorine dioxide to disinfect drinking water. 
+Sodium chlorite is also used as a disinfectant to kill germs. 
+1.2 WHAT HAPPENS TO CHLORINE DIOXIDE AND CHLORITE WHEN THEY 
+ENTER THE ENVIRONMENT? 
+Chlorine dioxide is a very reactive compound. In air, sunlight quickly breaks chlorine dioxide 
+apart into chlorine gas and oxygen. In water, chlorine dioxide reacts quickly to form chlorite 
+ions. When chlorine dioxide reacts with dissolved organic compounds in water-treatment 
+systems, it forms disinfection by-products, such as chlorite and chlorate ions. 
+Like chlorine dioxide, chlorite is very reactive. Since chlorite is an ionic compound, it will exist 
+primarily in water. Chlorite ions are mobile in water, and may move into groundwater. 
+However, the reaction of chlorite ions with soils and sediments may reduce the concentration of 
+chlorite ions capable of reaching groundwater. For additional information about what happens to 
+chlorine dioxide and chlorite when they enter the environment, see Chapter 6. 
+1.3 HOW MIGHT I BE EXPOSED TO CHLORINE DIOXIDE AND CHLORITE? 
+Chlorine dioxide is added to drinking water to protect people from harmful bacteria and other 
+microorganisms. Most people will be exposed to chlorine dioxide and its disinfection by­ 
+3 CHLORINE DIOXIDE AND CHLORITE 
+1. PUBLIC HEALTH STATEMENT 
+product, chlorite ions, when they drink water that has been treated with chlorine dioxide. The 
+EPA has set the maximum concentration in the drinking water at 0.8 milligrams per liter (mg/L) 
+for chlorine dioxide and 1.0 mg/L for chlorite ion. The concentrations of chlorine dioxide and 
+chlorite ion in your drinking water, however, may be lower or higher than these levels. For 
+additional information about how you might be exposed to chlorine dioxide and chlorite, see 
+Chapter 6. 
+1.4 HOW CAN CHLORINE DIOXIDE AND CHLORITE ENTER AND LEAVE MY 
+BODY? 
+Chlorine dioxide and chlorite usually enter the body when people drink water that has been 
+disinfected with chlorine dioxide. Because chlorine dioxide rapidly breaks down in air to 
+chlorine gas and oxygen, you would not likely breathe air containing dangerous levels of 
+chlorine dioxide, but if you did, it could be absorbed across your lungs. You are not likely to 
+encounter chlorite in the air you breathe. Whether chlorine dioxide or chlorite on your skin 
+would be absorbed to any great extent is not known. 
+Both chlorine dioxide and chlorite act quickly when they enter the body. Chlorine dioxide 
+quickly changes to chlorite ions, which are broken down further into chloride ions. The body 
+uses these ions for many normal purposes. Some chloride ions leave the body within hours or 
+days, mainly in the urine. Most chlorite that is not broken down also leaves the body in the urine 
+within a few days after exposure to chlorine dioxide or chlorite. 
+1.5 HOW CAN CHLORINE DIOXIDE AND CHLORITE AFFECT MY HEALTH? 
+Both chlorine dioxide and chlorite react quickly in water and moist body tissues. If you were to 
+breathe air containing chlorine dioxide gas, you might experience irritation in your nose, throat, 
+and lungs. If you were to eat or drink large amounts of chlorine dioxide or chlorite, you might 
+experience irritation in the mouth, esophagus, or stomach. Most people will not be exposed to 
+chlorine dioxide or chlorite in amounts large enough to damage other parts of the body, but if 
+4 CHLORINE DIOXIDE AND CHLORITE 
+1. PUBLIC HEALTH STATEMENT 
+you were, you might experience shortness of breath and other respiratory problems because of 
+damage to the substances in blood that carry oxygen throughout the body. 
+Scientists use many tests to protect the public from harmful effects of toxic chemicals and to find 
+ways for treating persons who have been harmed. 
+One way to learn whether a chemical will harm people is to determine how the body absorbs, 
+uses, and releases the chemical. For some chemicals, animal testing may be necessary. Animal 
+testing may also help identify health effects such as cancer or birth defects. Without laboratory 
+animals, scientists would lose a basic method for getting information needed to make wise 
+decisions that protect public health. Scientists have the responsibility to treat research animals 
+with care and compassion. Scientists must comply with strict animal care guidelines because 
+laws today protect the welfare of research animals. 
+Animal studies have shown effects of chlorine dioxide and chlorite that are similar to those seen 
+in people exposed to very high amounts of these chemicals. In addition, exposure to high levels 
+of chlorine dioxide and chlorite in animals both before birth and during early development after 
+birth may cause delays in brain development. The levels to which the animals were exposed 
+were much higher than levels that would likely be found in drinking water that has been 
+disinfected with chlorine dioxide. 
+1.6 HOW CAN CHLORINE DIOXIDE AND CHLORITE AFFECT CHILDREN? 
+This section discusses potential health effects in humans from exposures during the period from 
+conception to maturity at 18 years of age. 
+Children exposed to large amounts of chlorine dioxide or chlorite would likely be affected in the 
+same manner as adults. Exposure to chlorine dioxide gas in young children, however, might 
+more quickly reduce the ability of blood to carry oxygen than in adults, making breathing more 
+difficult. If infants or babies still in their mother’s womb were exposed to large amounts of 
+5 CHLORINE DIOXIDE AND CHLORITE 
+1. PUBLIC HEALTH STATEMENT 
+chlorine dioxide, it might cause parts of their brains to develop more slowly. This has been seen 
+in young animals, but has not actually been seen in humans. 
+1.7 HOW CAN FAMILIES REDUCE THE RISK OF EXPOSURE TO CHLORINE 
+DIOXIDE AND CHLORITE 
+If your doctor finds that you have been exposed to substantial amounts of chlorine dioxide or 
+chlorite, ask whether your children might also have been exposed. Your doctor might need to 
+ask your state health department to investigate. 
+Families that drink water treated with chlorine dioxide may reduce the risk of exposure to 
+chlorine dioxide and chlorite ions by drinking bottled water that has not been treated with 
+chlorine dioxide or chlorite ions. 
+1.8 IS THERE A MEDICAL TEST TO DETERMINE WHETHER I HAVE BEEN 
+EXPOSED TO CHLORINE DIOXIDE AND CHLORITE? 
+Although no medical tests are available to determine whether you have been exposed to chlorine 
+dioxide or chlorite, exposure to very large amounts may result in damage to red blood cells that 
+can be observed through routine blood tests. 
+1.9 WHAT RECOMMENDATIONS HAS THE FEDERAL GOVERNMENT MADE TO 
+PROTECT HUMAN HEALTH? 
+The federal government develops regulations and recommendations to protect public health. 
+Regulations can be enforced by law. The EPA, the Occupational Safety and Health 
+Administration (OSHA), and the Food and Drug Administration (FDA) are some federal 
+agencies that develop regulations for toxic substances. Recommendations provide valuable 
+guidelines to protect public health, but cannot be enforced by law. The Agency for Toxic 
+Substances and Disease Registry (ATSDR) and the National Institute for Occupational Safety 
+6 CHLORINE DIOXIDE AND CHLORITE 
+1. PUBLIC HEALTH STATEMENT 
+and Health (NIOSH) are two federal organizations that develop recommendations for toxic 
+substances. 
+Regulations and recommendations can be expressed as “not-to-exceed” levels, that is, levels of a 
+toxic substance in air, water, soil, or food that do not exceed a critical value that is usually based 
+on levels that affect animals; they are then adjusted to levels that will help protect humans. 
+Sometimes these not-to-exceed levels differ among federal organizations because they used 
+different exposure times (an 8-hour workday or a 24-hour day), different animal studies, or other 
+factors. 
+Recommendations and regulations are also updated periodically as more information becomes 
+available. For the most current information, check with the federal agency or organization that 
+provides it. Some regulations and recommendations for chlorine dioxide and chlorite include the 
+following: 
+OSHA regulates the level of chlorine dioxide in workplace air. The occupational exposure limit 
+for an 8-hour workday, 40-hour workweek is 0.1 parts per million (0.28 milligrams per cubic meter [mg/m3]). The EPA has set a maximum contaminant level of 1 mg/L for chlorite in 
+drinking water and a goal of 0.8 mg/L for both the maximum residual disinfectant level for 
+chlorine dioxide and the maximum contaminant level for chlorite in drinking water that has been 
+treated with chlorine dioxide as a disinfectant. 
+For more information on regulations and guidelines, see Chapter 8. 
+1.10 WHERE CAN I GET MORE INFORMATION? 
+If you have any more questions or concerns, please contact your community or state health or 
+environmental quality department, or contact ATSDR at the address and phone number below. 
+7 CHLORINE DIOXIDE AND CHLORITE 
+1. PUBLIC HEALTH STATEMENT 
+ATSDR can also tell you the location of occupational and environmental health clinics. These 
+clinics specialize in recognizing, evaluating, and treating illnesses that result from exposure to 
+hazardous substances. 
+Toxicological profiles are also available on-line at www.atsdr.cdc.gov and on CD-ROM. You 
+may request a copy of the ATSDR ToxProfilesTM CD-ROM by calling the toll-free information 
+and technical assistance number at 1-888-42ATSDR (1-888-422-8737), by e-mail at 
+atsdric@cdc.gov, or by writing to: 
+Agency for Toxic Substances and Disease Registry Division of Toxicology 1600 Clifton Road NE Mailstop F-32 Atlanta, GA 30333 Fax: 1-770-488-4178 
+Organizations for-profit may request copies of final Toxicological Profiles from the following: 
+National Technical Information Service (NTIS) 5285 Port Royal Road Springfield, VA 22161 Phone: 1-800-553-6847 or 1-703-605-6000 Web site: http://www.ntis.gov/ 
+9 CHLORINE DIOXIDE AND CHLORITE 
+2. RELEVANCE TO PUBLIC HEALTH 
+2.1 BACKGROUND AND ENVIRONMENTAL EXPOSURES TO CHLORINE DIOXIDE 
+AND CHLORITE IN THE UNITED STATES 
+Chlorine dioxide is a yellow to reddish-yellow gas that can decompose rapidly in air if it is present at high 
+concentrations. Because it is a hazardous gas, chlorine dioxide is always made at the place where it is 
+used. Chlorine dioxide is used as a bleach at pulp mills to make paper and paper products, and in 
+publicly-owned treatment works (POTW) as a disinfectant for drinking water. In 2001, chlorine dioxide 
+was used to decontaminate a number of public buildings following the release of anthrax spores in the 
+United States. Chlorine dioxide is a very reactive compound and will not exist in the environment for 
+long periods of time. In air, chlorine dioxide will dissociate in sunlight into chlorine gas and oxygen. 
+Chlorine dioxide, a strong oxidizer, will react quickly in water to form by-products such as chlorite ions. 
+EPA has set the maximum concentration of chlorine dioxide and chlorite ion for drinking waters at 
+0.8 and 1.0 mg/L, respectively. However, the concentrations of chlorine dioxide and chlorite ion in 
+drinking water may be higher or lower than these levels. 
+Human exposure to chlorine dioxide and its by-products (e.g., chlorite ion) occurs primarily by ingestion 
+of drinking water. People who live in communities where chlorine dioxide is used in drinking water 
+treatment have a greater probability of exposure to chlorine dioxide and chlorite ions than individuals 
+who do not. About 5% of the water treatment facilities serving more than 100,000 people in the United 
+States use chlorine dioxide to treat drinking water. This would translate to about 12 million people who 
+may be exposed to chlorine dioxide and chlorite ions in the United States. However, the total number 
+people exposed will be higher if smaller facilities (i.e., those serving less than 50,000 people) are also 
+included in this value. 
+2.2 SUMMARY OF HEALTH EFFECTS 
+Available human and animal data indicate that airborne chlorine dioxide (ClO2) primarily acts as a respiratory tract and ocular irritant. Chlorite (ClO2-) does not persist in the atmosphere either in ionic form or as chlorite salt, and is not likely to be inhaled. Potential for human exposure to chlorine dioxide 
+or chlorite may be greatest via the oral exposure route because chlorine dioxide is sometimes used as a 
+10 CHLORINE DIOXIDE AND CHLORITE 
+2. RELEVANCE TO PUBLIC HEALTH 
+disinfectant for drinking water. Available human and animal data indicate that oral exposure to relatively 
+large amounts of chlorine dioxide or chlorite may result in irritation of the digestive tract, the severity of 
+which is likely to be dose-dependent. In addition, high-level oral exposure results in increased levels of 
+methemoglobin in the blood, which reduces the ability of oxygen to bind with hemoglobin. 
+Other hematological changes have been observed in animals exposed to chlorine dioxide and chlorite. 
+However, the degree of reported changes does not appear to be dependent upon the amount of exposure, 
+and the toxicological significance of such changes is not clear. Nor has the toxicological significance of 
+changes in thyroid hormone levels in the blood been established. 
+Both chlorine dioxide and chlorite appear to induce delays in neurodevelopment, as evidenced by delayed 
+brain growth, decreased locomotor and exploratory behavior, and altered auditory startle response in 
+animals exposed during critical periods of neurodevelopment. It is not known whether similar chlorine 
+dioxide- or chlorite-induced neurodevelopmental effects might occur in humans. 
+Limited carcinogenicity data for chlorine dioxide and chlorite do not indicate a particular cancer concern, 
+but adequate animal cancer bioassays have not been performed. Genotoxicity testing has produced mixed 
+results. Chlorine dioxide and chlorite do not appear to be reproductive toxicants. 
+Animal studies indicate that the lowest observed adverse-effect level (LOAEL) is approximately 
+5 mg/kg/day for repeated oral exposure to chlorite. Assuming that the average human male (70 kg 
+reference bodyweight) drinks 2 liters of water per day, the dose of chlorite would be approximately 
+0.03 mg/kg/day from drinking water containing the maximum level of 1 mg chlorite/L that is allowed by 
+EPA. It is not likely that humans would be exposed to levels of chlorine dioxide or chlorite in the 
+drinking water that would approach adverse effect levels reported in animal studies. 
+Neurodevelopmental effects appear to be of greatest toxicological concern, particularly in light of the fact 
+that chlorine dioxide and chlorite may be used as disinfectants for drinking water. Therefore, the 
+following brief discussion includes only developmental effects. The reader is referred to Section 3.2, 
+Discussion of Health Effects by Route of Exposure, for additional information regarding the potential for 
+other chlorine dioxide- or chlorite-induced health effects. 
+Developmental Effects. Neurodevelopmental effects, such as decreases in brain weight, brain cell 
+number, exploratory behavior, and locomotor activity, have been observed in rat pups whose mothers 
+11 CHLORINE DIOXIDE AND CHLORITE 
+2. RELEVANCE TO PUBLIC HEALTH 
+were exposed to chlorine dioxide before mating and during gestation and lactation and other rat pups that 
+were directly exposed via oral gavage only during postnatal development. Decreases in exploratory 
+behavior and amplitude of auditory startle response have been reported in rat pups whose mothers were 
+orally exposed to chlorite during gestation and lactation. Perinatal exposure to chlorine dioxide or 
+chlorite has also resulted in altered serum thyroid hormone levels or activity. Although mechanisms of 
+action responsible for mediating these chlorine dioxide- and chlorite-mediated thyroid hormone effects 
+have not been identified, it is widely understood that the thyroid hormone, T3, is essential for normal 
+development of the nervous system, and that T3 is synthesized from the deiodination of T4. 
+2.3 MINIMAL RISK LEVELS 
+Inhalation MRLs 
+An acute-duration inhalation MRL was not derived for chlorine dioxide because adequate human or 
+animal data are not available. 
+No inhalation MRLs were derived for chlorite. The only available information regarding health effects 
+following inhalation exposure to chlorite was limited to a single study of lethality in rats exposed to 
+aerosols of sodium chlorite, an exposure scenario not likely to be encountered in environmental or 
+occupational settings. Furthermore, lethality is a serious effect, and therefore cannot be used as the basis 
+for deriving an MRL. 
+• An MRL of 0.001 ppm (0.003 mg/m3) has been derived for intermediate-duration inhalation exposure (15–365 days) to chlorine dioxide. 
+This MRL is based on a lowest-observed-adverse-effect-level (LOAEL) of 1 ppm for respiratory effects 
+in rats. Paulet and Desbrousses (1970) exposed groups of 10 rats/sex (strain not specified) to chlorine 
+dioxide vapors at concentrations of 0 or 2.5 ppm, 7 hours/day for 30 days. Chlorine dioxide-exposed rats 
+exhibited respiratory effects that included lymphocytic infiltration of the alveolar spaces, alveolar 
+vascular congestion, hemorrhagic alveoli, epithelial erosions, and inflammatory infiltrations of the 
+bronchi. The study authors also reported slightly decreased body weight gain, decreased erythrocyte 
+levels, and increased leukocyte levels, relative to controls. Recovery from the pulmonary lesions was 
+apparent in rats examined after a 15-day recovery period. In a follow-up study designed to examine a 
+lower exposure level (Paulet and Desbrousses 1972), eight Wistar rats (sex not reported) were exposed to 
+chlorine dioxide vapors at a concentration of 1 ppm, 5 hours/day, 5 days/week for 2 months. The authors 
+12 CHLORINE DIOXIDE AND CHLORITE 
+2. RELEVANCE TO PUBLIC HEALTH 
+stated that weight gain and erythrocyte and leukocyte levels were not affected. Chlorine dioxide-induced 
+respiratory effects included peribronchiolar edema and vascular congestion in the lungs. No alterations in 
+epithelium or parenchyma were seen. 
+Collectively, these studies adequately identify a LOAEL for respiratory effects associated with 
+intermediate-duration inhalation exposure to chlorine dioxide. The intermediate-duration inhalation MRL 
+for chlorine dioxide was based on the LOAEL of 1 ppm identified in the Paulet and Desbrousses (1972) 
+study, which was adjusted to 0.15 ppm (LOAELADJ) to compensate for intermittent exposure, converted to the human equivalent concentration (LOAELHEC) of 0.3 ppm, and then divided by an uncertainty factor of 300 (3 for interspecies extrapolation using dosimetric adjustments, 10 for the use of a LOAEL, and 
+10 to account for sensitive populations). 
+A chronic-duration inhalation MRL was not derived for chlorine dioxide because chronic inhalation 
+exposure studies in humans or animals are not available. An approach using an uncertainty factor for 
+extrapolating from intermediate- to chronic-duration exposure was not used because it is not known 
+whether respiratory irritation, observed during intermediate-duration inhalation exposure to chlorine 
+dioxide, might result in more persistent effects in cases of chronic-duration exposure. Furthermore, it is 
+not likely that humans would be chronically exposed to significant concentrations of chlorine dioxide 
+vapors in environmental or occupational settings. 
+Oral MRLs 
+Acute-duration oral MRLs were not derived for chlorine dioxide or chlorite because adequate human or 
+animal data are not available. 
+• An MRL of 0.1 mg/kg/day has been derived for intermediate-duration oral exposure (15– 364 days) to chlorite. 
+This MRL is based on a no-observed-adverse-effect-level (NOAEL) of 2.9 mg chlorite/kg/day and a 
+LOAEL of 5.7 mg chlorite/kg/day for neurodevelopmental effects (lowered auditory startle amplitude) in 
+rat pups that had been exposed throughout gestation and lactation via their mothers (Gill et al. 2000). 
+Groups of 30 male and 30 female Sprague-Dawley rats (F0) received sodium chlorite in the drinking water at concentrations of 35, 70, or 300 mg/L (approximate chlorite doses of 3, 5.7, and 21 mg/kg/day 
+for males and 3.9, 7.6, and 29 mg/kg/day for females) for 10 weeks prior to mating and during mating, 
+after which exposure of females continued throughout gestation and lactation. Groups of F1 pups were 
+13 CHLORINE DIOXIDE AND CHLORITE 
+2. RELEVANCE TO PUBLIC HEALTH 
+continued on the same treatment regimen as their parents (chlorite doses of 2.9, 6, and 23 mg/kg/day and 
+3.9, 7.6, and 29 mg/kg/day for F1 males and females, respectively). Low-dose female pups exhibited slight, but statistically significant differences in some hematological parameters, relative to controls. No 
+other effects were seen in pups of this exposure level, and the hematological effects were not considered 
+to be adverse. A significant decrease in maximum response to an auditory startle stimulus was noted in 
+mid-dose pups on postnatal day 24, but not on postnatal day 60. Mid-dose F1 pups also exhibited reduced liver weight. Significant effects at high dose included reduced absolute and relative liver weight in F1 males and females, reduced pup survival, reduced body weight at birth and throughout lactation in F1 and F2 rats, lower thymus and spleen weight in both generations, lowered incidence of pups exhibiting normal righting reflex and with eyes open on postnatal day 15, decreased in absolute brain weight for F1 males and F2 females, delayed sexual development in F1 and F2 males (preputial separation) and F1 and F2 females (vaginal opening), and lowered red blood cell parameters in F1 rats. The NOAEL of 2.9 mg/kg/day was divided by an uncertainty factor of 30 (10 for interspecies extrapolation and 3 to 
+account for sensitive populations). An uncertainty factor of 3 rather than 10 was used for sensitive 
+populations because the critical effect (neurodevelopmental delay) occurred in a sensitive population 
+(perinatal rat pups). 
+Chlorine dioxide in drinking water rapidly degrades, predominately to chlorite (Michael et al. 1981). In 
+laboratory animals, orally administered chlorine dioxide is rapidly converted to chlorite and chloride ion 
+(Abdel-Rahman et al. 1980b). Being both a strong oxidizer and water soluble, chlorine dioxide is not 
+likely absorbed in the gastrointestinal tract to any great extent. Chlorite is the most likely source of 
+systemic toxicity resulting from oral exposure to either chlorine dioxide or chlorite. Therefore, the 
+intermediate-duration oral MRL derived for chlorite should also be applicable to chlorine dioxide. 
+Chronic-duration oral MRLs were not derived for chlorine dioxide or chlorite. No human studies were 
+available in which chronic oral exposure to chlorine dioxide or chlorite was evaluated, and available 
+chronic-duration oral studies in animals identified LOAELs that were higher than those observed for 
+developmental effects following exposures of significantly shorter duration. 
+15 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+3.1 INTRODUCTION 
+The primary purpose of this chapter is to provide public health officials, physicians, toxicologists, and 
+other interested individuals and groups with an overall perspective on the toxicology of chlorine dioxide 
+and chlorite. It contains descriptions and evaluations of toxicological studies and epidemiological 
+investigations and provides conclusions, where possible, on the relevance of toxicity and toxicokinetic 
+data to public health. 
+A glossary and list of acronyms, abbreviations, and symbols can be found at the end of this profile. 
+3.2 DISCUSSION OF HEALTH EFFECTS BY ROUTE OF EXPOSURE 
+To help public health professionals and others address the needs of persons living or working near 
+hazardous waste sites, the information in this section is organized first by route of exposure (inhalation, 
+oral, and dermal) and then by health effect (death, systemic, immunological, neurological, reproductive, 
+developmental, genotoxic, and carcinogenic effects). These data are discussed in terms of three exposure 
+periods: acute (14 days or less), intermediate (15–364 days), and chronic (365 days or more). 
+Levels of significant exposure for each route and duration are presented in tables and illustrated in 
+figures. The points in the figures showing no-observed-adverse-effect levels (NOAELs) or lowest­ 
+observed-adverse-effect levels (LOAELs) reflect the actual doses (levels of exposure) used in the studies. 
+LOAELs have been classified into "less serious" or "serious" effects. "Serious" effects are those that 
+evoke failure in a biological system and can lead to morbidity or mortality (e.g., acute respiratory distress 
+or death). "Less serious" effects are those that are not expected to cause significant dysfunction or death, 
+or those whose significance to the organism is not entirely clear. ATSDR acknowledges that a 
+considerable amount of judgment may be required in establishing whether an end point should be 
+classified as a NOAEL, "less serious" LOAEL, or "serious" LOAEL, and that in some cases, there will be 
+insufficient data to decide whether the effect is indicative of significant dysfunction. However, the 
+Agency has established guidelines and policies that are used to classify these end points. ATSDR 
+believes that there is sufficient merit in this approach to warrant an attempt at distinguishing between 
+"less serious" and "serious" effects. The distinction between "less serious" effects and "serious" effects is 
+16 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+considered to be important because it helps the users of the profiles to identify levels of exposure at which 
+major health effects start to appear. LOAELs or NOAELs should also help in determining whether or not 
+the effects vary with dose and/or duration, and place into perspective the possible significance of these 
+effects to human health. 
+The significance of the exposure levels shown in the Levels of Significant Exposure (LSE) tables and 
+figures may differ depending on the user's perspective. Public health officials and others concerned with 
+appropriate actions to take at hazardous waste sites may want information on levels of exposure 
+associated with more subtle effects in humans or animals (LOAELs) or exposure levels below which no 
+adverse effects (NOAELs) have been observed. Estimates of levels posing minimal risk to humans 
+(Minimal Risk Levels or MRLs) may be of interest to health professionals and citizens alike. 
+Estimates of exposure levels posing minimal risk to humans (Minimal Risk Levels or MRLs) have been 
+made for chlorine dioxide and chlorite. An MRL is defined as an estimate of daily human exposure to a 
+substance that is likely to be without an appreciable risk of adverse effects (noncarcinogenic) over a 
+specified duration of exposure. MRLs are derived when reliable and sufficient data exist to identify the 
+target organ(s) of effect or the most sensitive health effect(s) for a specific duration within a given route 
+of exposure. MRLs are based on noncancerous health effects only and do not consider carcinogenic 
+effects. MRLs can be derived for acute, intermediate, and chronic duration exposures for inhalation and 
+oral routes. Appropriate methodology does not exist to develop MRLs for dermal exposure. 
+Although methods have been established to derive these levels (Barnes and Dourson 1988; EPA 1990), 
+uncertainties are associated with these techniques. Furthermore, ATSDR acknowledges additional 
+uncertainties inherent in the application of the procedures to derive less than lifetime MRLs. As an 
+example, acute inhalation MRLs may not be protective for health effects that are delayed in development 
+or are acquired following repeated acute insults, such as hypersensitivity reactions, asthma, or chronic 
+bronchitis. As these kinds of health effects data become available and methods to assess levels of 
+significant human exposure improve, these MRLs will be revised. 
+A User's Guide has been provided at the end of this profile (see Appendix B). This guide should aid in 
+the interpretation of the tables and figures for Levels of Significant Exposure and the MRLs. 
+17 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+3.2.1 Inhalation Exposure 
+Available human and animal data indicate that airborne chlorine dioxide (ClO2) primarily acts as a respiratory tract and ocular irritant. Chlorite (ClO2-) does not persist in the atmosphere either in ionic form or as chlorite salt. Available information concerning health effects associated with inhalation 
+exposure is limited to chlorine dioxide. 
+3.2.1.1 Death 
+Information regarding death in humans exposed to atmospheres of chlorine dioxide is limited to a single 
+case in which a bleach tank worker died after being exposed for an unspecified amount of time (Elkins 1959). A chlorine dioxide vapor concentration of 19 ppm (52.4 mg/m3) was measured inside the tank. 
+Limited information is available regarding death in laboratory animals exposed to atmospheres of 
+chlorine dioxide. Death resulted from the exposure of a single guinea pig for 44 minutes to an airborne chlorine dioxide concentration of 150 ppm (420 mg/m3); at the same concentration, exposure for 5 or 
+15 minutes was not lethal (Haller and Northgraves 1955). 
+Dalhamn (1957) exposed four rats to approximately 260 ppm (728 mg/m3) of chlorine dioxide for 
+2 hours. One of the rats died during exposure and the remaining three rats were sacrificed immediately 
+following the 2-hour exposure period. Microscopic examination revealed pulmonary edema and 
+circulatory engorgement. Dalhamn (1957) also reported death in three of five rats exposed to approximately 10 ppm (28 mg/m3) of chlorine dioxide, 4 hours/day for up to nine exposures in a 13-day 
+period; clinical signs of toxicity included rhinorrhea and altered respiration. 
+In another study, rats were repeatedly exposed for 1 month (15 minutes/exposure, 2 or 4 times/day) to atmospheres containing 15 ppm (42 mg/m3) of chlorine dioxide (Paulet and Desbrousses 1974). Death 
+was noted in 1/10 and 1/15 rats exposed 2 or 4 times/day, respectively. Histological examination of the 
+exposed rats revealed nasal and ocular inflammation, bronchitis, and alveolar lesions. No deaths occurred in rats similarly exposed to 10 ppm (28 mg/m3) of chlorine dioxide. 
+18 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+3.2.1.2 Systemic Effects 
+The highest NOAEL values and all LOAEL values from each reliable study for each systemic effect in 
+each species and duration are recorded in Table 3-1 and plotted in Figure 3-1. 
+No reports were located in which gastrointestinal, musculoskeletal, endocrine, dermal, or metabolic 
+effects were associated with inhalation exposure of humans or animals to chlorine dioxide or chlorite. 
+Respiratory Effects. Limited human data indicate that airborne chlorine dioxide is a primary 
+respiratory tract irritant. In a case of accidental inhalation exposure to chlorine dioxide in the paper industry, exposure to 5 ppm (14 mg/m3) for an unspecified amount of time was reported to be irritating 
+(Elkins 1959). In another case report, a woman experienced coughing, pharyngeal irritation, and 
+headache while mixing a bleach solution that was then used to bleach dried flowers (Exner-Freisfeld et al. 
+1986). The mixing process resulted in the release of chlorine dioxide. Increasing cough caused the 
+woman to abandon the bleaching process. Seven hours later, the woman began experiencing intensified 
+coughing and dyspnea that resulted in hospitalization (16 hours after the exposure) with clinical findings 
+of cough, dyspnea, tachypnea, and rales. Pulmonary function tests revealed reduced VC (vital capacity) 
+and FEV1 (forced expiratory volume in 1 second) values and increased resistance. Blood gas analysis and blood chemistry revealed hypoxemia and leukocytosis, respectively. Corticosteroid treatment resulted in 
+the alleviation of clinical signs and improved lung function, which was in the normal range at the 2-year 
+follow-up examination. 
+Nasal abnormalities (including injection, telangectasia, paleness, cobblestoning, edema, and thick mucus) 
+were observed in 13 individuals (1 man and 12 women) who had been accidentally exposed to chlorine 
+dioxide from a leak in a water purification system pipe 5 years earlier (Meggs et al. 1996). These 
+individuals also exhibited sensitivity to respiratory irritants. Nasal biopsies revealed chronic 
+inflammation in the lamina propria of 11/13 chlorine dioxide-exposed individuals, compared with 
+1/3 control individuals. The severity of inflammation was significantly increased in the chlorine dioxide 
+exposed group, compared to controls. 
+Several investigators examined the respiratory health of workers who had been occasionally exposed to 
+increased levels of chlorine dioxide resulting from equipment failure (Ferris et al. 1967, 1979; Gloemme 
+and Lundgren 1957; Kennedy et al. 1991). Since the results of these studies are confounded by 
+concurrent exposure to chlorine gas and/or sulfur dioxide, the reported respiratory effects (such as 
+Table 3-1 Levels of Significant Exposure to Chlorine Dioxide And Chlorite - Inhalation 
+Exposure/ LOAEL Key to a Species figure (Strain) Duration/ Frequency (Specific Route) System NOAEL Less Serious (ppm) (ppm) Serious (ppm) Reference 
+Chemical Form ACUTE EXPOSURE Death 1 Rat 2 hr/d for 9 of 13 d 10 100% mortality by day 14 Dalhamn 1957 Chlorine Dioxide 
+Systemic 2 Rat 2 hr/d for 9 of 13 d Resp 10 rhinorrhea and embarrased 
+respiration Dalhamn 1957 Chlorine Dioxide 
+INTERMEDIATE EXPOSURE Systemic 3 Rat 3 min/d, 1d/wk, for 3 wk Resp 760 bronchopneumonia Dalhamn 1957 Chlorine Dioxide 
+4 Rat 5 hr/d for 10 wk Resp 0.1 Dalhamn 1957 Chlorine Dioxide 
+5 Rat 2 hr/d for 30 d Resp 10 bronchopneumonia Paulet and Desbrousses 1970 Chlorine dioxide 
+Hemato 10 increased RBC and WBC 
+counts 
+Ocular 10 irritation 
+10 
+104 
+103 
+10 
+105 
+760 
+0.1 
+106 
+108 
+101010 
+Table 3-1 Levels of Significant Exposure to Chlorine Dioxide And Chlorite - Inhalation 
+(ppm) (ppm) (ppm) 
+(continued) 
+Reference 
+Chemical Form 
+6 Rat 2 hr/d for 30 d Resp 5 bronchopneumonia Paulet and Desbrousses 1970 
+Chlorine dioxide 
+7 Rat 7 hr/d for 30 d Resp 2.5 slight respiratory irritation Paulet and Desbrousses 1970 
+Chlorine dioxide 
+8 
+(Wistar) 
+Exposure/ 
+LOAEL 
+Key to a figure 
+Duration/ Frequency (Specific Route) 
+System Species 
+NOAEL Less Serious Serious (Strain) 
+5 109 
+111 
+2.5 
+Rat 5 hr/d 5 d/wk for 2 mo Resp 1 b minimal peribronchiolar edema and vascular congestion in the lungs 
+113 
+Paulet and Desbrousses 1972 
+Chlorine dioxide 
+9 Rat 15 min 2 x/d (or 4 x/d) 
+for 1 mo Resp 5 10 alveolar irritation Paulet and Desbrousses 1974 
+Chlorine dioxide 
+10 Rabbit 2 hr/d for 30 d Resp 5 slight bronchopneumonia Paulet and Desbrousses 1970 
+Chlorine dioxide 
+11 Rabbit 4 hr/d for 45 d Resp 2.5 slight pulmonary irritation Paulet and Desbrousses 1970 
+Chlorine dioxide 
+a The number corresponds to entries in Figure 3-1. 
+b An intermediate-duration inhalation MRL of 0.001 ppm was derived from a LOAEL of 1 ppm and adjusted to 0.15 ppm (LOAELADJ) to compensate for intermittent exposure, converted to the human equivalent concentration (LOAELHEC) of 0.3 ppm, and then divided by an uncertainty factor of 300 (3 for interspecies extrapolation using dosimetric adjustments, 10 for the use of a LOAEL, and 10 to account for sensitive populations). 
+d = day(s); hemato = hematological; hr = hour(s); LOAEL = lowest-observed-adverse-effect level; mo = month(s); NOAEL = no-observed-adverse-effect level; Resp = respiratory; wk = week(s) 
+1 
+5 
+115 
+10 
+110 
+5 
+112 
+2.5 
+Figure 3-1. Levels of Significant Exposure to Chlorine Dioxide And Chlorite- Inhalation 
+Acute (≤14 days) Intermediate (15-364 days) 
+Systemic Systemic 
+ppm 
+Death 
+Respiratory 
+Respiratory 
+Hematological 
+Ocular 
+3r 
+100 10 1r 2r 5r 9r 5r 5r 
+6r 9r 10h 
+7r 11h 
+1 8r 
+0.1 4r 
+0.01 
+0.001 c-Cat d-Dog r-Rat p-Pig q-Cow -Humans k-Monkey m-Mouse h-Rabbit a-Sheep f-Ferret j-Pigeon e-Gerbil s-Hamster g-Guinea Pig n-Mink o-Other Cancer Effect Level-Animals LOAEL, More Serious-Animals LOAEL, NOAEL Less - Animals Serious-Animals Cancer Effect Level-Humans LOAEL, LOAEL, NOAEL 1000 
+More Less - Humans Serious-Humans Serious-Humans LD50/LC50 Minimal for effects Risk Level other than Cancer 
+22 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+coughing, wheezing, shortness of breath, and excess phlegm) could not be specifically attributed to 
+chlorine dioxide. 
+Animal studies also indicate that the respiratory system is a major target of toxicity following inhalation 
+exposure to chlorine dioxide. Dalhamn (1957) reported the results of several inhalation studies in 
+laboratory animals. In one study, a single 2-hour inhalation exposure of four rats to a chlorine dioxide concentration of 260 ppm (728 mg/m3) resulted in pulmonary edema and nasal bleeding. Respiratory 
+distress was reported in three other rats subjected to 3 weekly 3-minute exposures to decreasing concentrations of airborne chlorine dioxide from 3,400 to 800 ppm (from 9,520 to 2,240 mg/m3); 
+bronchopneumonia was observed in two of these rats. In a third rat study, repeated exposure to approximately 10 ppm (28 mg/m3) of chlorine dioxide (4 hours/day for 9 days in a 13-day period) 
+resulted in rhinorrhea, altered respiration, and respiratory infection. No indications of adverse effects were seen in rats exposed to approximately 0.1 ppm (0.28 mg/m3) of chlorine dioxide 5 hours/day for 
+10 weeks. 
+Paulet and Desbrousses (1970, 1972, 1974) conducted a series of studies in which laboratory animals 
+were exposed to atmospheres of chlorine dioxide. Nasal discharge and localized bronchopneumonia 
+(with desquamation of alveolar epithelium) were noted in rats exposed to an airborne concentration of 10 ppm (28 mg/m3), 2 hours/day for 30 days. Similar, but less severe, respiratory tract effects were observed in another group of rats exposed to a concentration of 5 ppm (14 mg/m3), 2 hours/day for 
+10 days. Bronchial inflammation and alveolar congestion and hemorrhage were observed in rats exposed to 2.5 ppm (7 mg/m3), 7 hours/day for 30 days. Alveolar congestion and hemorrhage were also seen in rabbits following inhalation exposure to 2.5 ppm (7 mg/m3), 4 hours/day for 45 days. In a group of rats 
+and rabbits sacrificed 15 days after exposure termination, recovery from the pulmonary lesions was 
+apparent (Paulet and Desbrousses 1970). Vascular congestion and peribronchiolar edema were noted in the lungs of rats exposed to a concentration of 1 ppm (2.8 mg/m3), 5 hours/day, 5 days/week for 2 months 
+(Paulet and Desbrousses 1972). The LOAEL of 1 ppm for respiratory effects, identified in this study, 
+served as the basis for the derivation of an intermediate-duration inhalation MRL for chlorine dioxide (see Section 2.3). In another rat study, exposure to concentrations of 10 or 15 ppm (28 or 42 mg/m3) for 
+periods as short as 15 minutes (2 or 4 times/day for 1 month) resulted in nasal, bronchial, and alveolar inflammation. These effects had subsided in a 15 ppm (42 mg/m3) group of rats sacrificed 15 days following exposure termination. This study identified a NOAEL of 5 ppm (14 mg/m3) for respiratory 
+effects (Paulet and Desbrousses 1974). 
+23 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Cardiovascular Effects. Information regarding cardiovascular effects in humans following 
+inhalation exposure to chlorine dioxide is limited to a single account of tachycardia that developed in a 
+woman several hours after having been exposed to an unknown concentration of chlorine dioxide that had 
+triggered respiratory effects severe enough to force her to leave the area where she had been bleaching 
+dried flowers (Exner-Freisfeld et al. 1986). The tachycardia was likely secondary to the primary 
+respiratory effects. 
+Circulatory engorgement was observed in rats that had been exposed to atmospheres containing a chlorine dioxide concentration of approximately 260 ppm (728 mg/m3) for 2 hours (Dalhamn 1957). This effect 
+was likely secondary to respiratory distress. 
+Hematological Effects. Information regarding hematological effects in humans following inhalation 
+exposure to chlorine dioxide is limited to a single account of marked leukocytosis diagnosed in a woman 
+several hours after she had been exposed to an unknown concentration of chlorine dioxide that triggered 
+respiratory effects severe enough to force her to leave the area where she had been bleaching dried 
+flowers (Exner-Freisfeld et al. 1986). 
+Significantly increased blood erythrocyte and leukocyte levels were reported in rats exposed to atmospheres containing a chlorine dioxide level of approximately 10 ppm (28 mg/m3), 2 hours/day for 
+30 days (Paulet and Desbrousses 1970). These effects were not seen in a group of rats exposed to 5 ppm 
+(14 mg/m3), 2 hours/day for 10 days. 
+Hepatic Effects. No information was located regarding hepatic effects in humans following 
+inhalation exposure to chlorine dioxide. 
+Paulet and Desbrousses (1974) found no signs of liver effects in rats exposed to atmospheres containing chlorine dioxide levels as high as 10 ppm (28 mg/m3), 2 hours/day for 30 days. On the other hand, 
+Dalhamn (1957) reported acute liver congestion in rats that had been exposed to atmospheres of 
+approximately 10 ppm of chlorine dioxide for 4 hours/day over 9 days in a 13-day period. However, the 
+liver congestion may have been secondary to primary respiratory effects. 
+Renal Effects. No information was located regarding renal effects in humans following inhalation 
+exposure to chlorine dioxide. 
+24 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Evidence of renal effects in animals is limited to a single report of renal hyperemia in two of three rats 
+subjected to 3 weekly 3-minute exposures to decreasing concentrations of airborne chlorine dioxide from 3,400 to 800 ppm (from 9,520 to 2,240 mg/m3); however, two of three control rats similarly exhibited 
+renal hyperemia (Dalhamn 1957). 
+Ocular Effects. Workers employed at a sulfite-cellulose production facility reported ocular 
+discomfort that was associated with periods when equipment failure resulted in relatively high air 
+concentrations of chlorine dioxide (Gloemme and Lundgren 1957). However, this finding was 
+confounded by concurrent exposure to chlorine gas and sulfur dioxide. 
+Animal studies indicate that exposure to chlorine dioxide at airborne concentrations ≥10 ppm (28 mg/m3) 
+may result in ocular irritation (Dalhamn 1957; Paulet and Desbrousses 1970, 1974). 
+Body Weight Effects. No information was located regarding body weight effects in humans 
+following inhalation exposure to chlorine dioxide. 
+Limited animal data indicate that repeated inhalation exposure to chlorine dioxide concentrations ≥10 ppm (28 mg/m3) may result in depressed body weight gain (Dalhamn 1957; Paulet and Desbrousses 
+1970); however, this effect may be secondary to primary respiratory effects. 
+No reports were located in which the following health effects in humans or animals could be associated 
+with inhalation exposure to chlorine dioxide: 
+3.2.1.3 Immunological and Lymphoreticular Effects 
+3.2.1.4 Neurological Effects 
+3.2.1.5 Reproductive Effects 
+3.2.1.6 Developmental Effects 
+3.2.1.7 Cancer 
+25 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+3.2.2 Oral Exposure 
+3.2.2.1 Death 
+No information was located regarding death in humans following oral exposure to chlorine dioxide or 
+chlorite. 
+Shi and Xie (1999) indicated that an acute oral LD50 value (a dose expected to result in death of 50% of the dosed animals) for stable chlorine dioxide was >10,000 mg/kg in mice. In rats, acute oral LD50 values for sodium chlorite (NaClO2) ranged from 105 to 177 mg/kg (equivalent to 79–133 mg chlorite/kg) (Musil et al. 1964; Seta et al. 1991; Sperling 1959). 
+No exposure-related deaths were observed in rats receiving chlorine dioxide in the drinking water for 
+90 days at concentrations that resulted in approximate doses as high as 11.5 mg/kg/day in males and 
+14.9 mg/kg/day in females (Daniel et al. 1990). 
+In a 14-day range-finding study of rats administered gavage doses of sodium chlorite in the range of 25– 
+200 mg/kg/day (equivalent to 18.6–149.2 mg chlorite/kg/day), one exposure-related death was observed 
+in each sex (Harrington et al. 1995a). The deaths occurred in the 200 mg/kg/day group on treatment 
+days 2 and 3. No treatment-related deaths occurred in the groups receiving chlorite doses ≤56 mg/kg/day. 
+In the 13-week main study performed by these investigators, treatment-related mortality was noted 
+between exposure weeks 10 and 13 in 4/30 rats (3 males and 1 female) receiving sodium chlorite by 
+gavage at a level resulting in a chlorite dose of 80 mg/kg/day. No treatment-related mortality was 
+observed at chlorite dose levels 18.6 mg/kg/day. Death was noted in all four female rats that were 
+administered sodium chlorite by gavage at a dose level of 200 mg/kg/day (equivalent to 150 mg 
+chlorite/kg/day) on gestation days 8–10 (Couri et al. 1982b). 
+Haag (1949) exposed groups of rats to chlorine dioxide in the drinking water for 2 years at concentrations 
+that resulted in estimated doses of 0.07, 0.13, 0.7, 1.3, or 13 mg/kg/day. The results did not indicate any 
+significant differences in mortality between controls and treated groups up to the highest exposure level 
+tested. Survival was not significantly decreased in groups of rats exposed to chlorite (as sodium chlorite) 
+in the drinking water for 2 years at concentrations that resulted in estimated chlorite doses as high as 
+81 mg/kg/day (Haag 1949). In another chronic study (Kurokawa et al. 1986), survival was not adversely 
+affected in rats given sodium chlorite in the drinking water at concentrations that resulted in estimated 
+chlorite doses as high as 32.1 mg/kg/day in males and 40.9 mg/kg/day in females. This study was 
+26 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+terminated after 85 weeks of treatment, due to widespread Sendai viral infection in both treatment groups 
+and controls. Exposure of mice to sodium chlorite for up to 85 weeks at concentrations resulting in 
+estimated chlorite doses as high as 90 mg/kg/day did not appear to adversely affect survival. However, 
+control males exhibited markedly reduced survival after 30 weeks of exposure, which was attributed to 
+severe fighting (Kurokawa et al. 1986). 
+The only available LD50 value for chlorite is recorded in Table 3-2 and plotted in Figure 3-2. 
+3.2.2.2 Systemic Effects 
+The highest NOAEL values and all LOAEL values from each reliable study for each systemic effect in 
+each species and duration are recorded in Table 3-2 and plotted in Figure 3-2. 
+No reports were located in which cardiovascular, musculoskeletal, dermal, ocular, or metabolic effects 
+were associated with oral exposure of humans or animals to chlorine dioxide or chlorite. 
+Respiratory Effects. Extremely limited information is available regarding respiratory effects in 
+humans following oral exposure to chlorine dioxide or chlorite. Respiratory distress was diagnosed in a 
+patient who had ingested 10 g of sodium chlorite dissolved in 100 mL of water (Lin and Lim 1993). 
+However, the respiratory distress was likely secondary to other effects such as severe methemo­ 
+globinemia. No adverse effects on respiration rate were seen in healthy adult males who ingested 
+chlorine dioxide or chlorite every 3 days (for 16 days) at increasing doses of 0.1, 1, 5, 10, 18, and 
+24 mg/day or 0.01, 0.1, 0.5, 1.0, 1.8, and 2.4 mg/day, respectively (Lubbers et al. 1981). Assuming an 
+average body weight of 70 kg, the individual doses were approximately 0.0014, 0.014, 0.070, 0.140, 0.26, 
+and 0.34 mg/kg/day, respectively, for chlorine dioxide and a factor of 10 lower for respective chlorite 
+doses. No adverse effects on respiration rate were observed in other healthy adult males who ingested 
+chlorine dioxide or chlorite in daily amounts of 2.5 mg (0.04 mg/kg/day) for 12 weeks (Lubbers et al. 
+1981). 
+Information regarding respiratory effects in orally-exposed animals is limited to a report of a significantly 
+increased incidence of nasal lesions (goblet cell hyperplasia and inflammation of nasal turbinates) 
+following 90 days of exposure to chlorine dioxide in the drinking water at concentrations that resulted in 
+estimated doses as low as 2 mg/kg/day in males and 8 mg/kg/day in females (Daniel et al. 1990). These 
+Table 3-2 Levels of Significant Exposure to Chlorine Dioxide And Chlorite - Oral 
+Key to a figure 
+LOAEL 
+Serious (mg/kg/day) 
+140 M (LD50) 
+2 
+Exposure/ Duration/ Species (Strain) 
+(Specific Frequency Route) ACUTE EXPOSURE Death 1 1x 
+(GW) 
+NOAEL (mg/kg/day) 
+Less Serious System 
+(mg/kg/day) 
+Rat 
+140 
+128 
+25 
+12 INTERMEDIATE EXPOSURE Systemic Mouse 12 hrs d A/J 30 d 
+Hemato 25 
+(W) 
+3 
+Mouse 12 hrs/d A/J 30 d 
+(W) 
+Hemato 19 Increased average corpuscular 
+volume and osmotic fragility 
+4 
+C57L/J 
+19 
+Mouse 12 hrs/d 
+30 d (W) 
+4 
+Hemato 19 Increased average corpuscular 
+volume and osmotic fragility 
+5 
+19 
+Reproductive Rat 66-76 d (Long- Evans) (W) 
+0.9 M 9 M decreased progressive sperm 
+0.9 
+movement 
+137 
+6 1x/d for 9 wk (Long- Evans) (GW) 
+9 
+Rat 10 
+10 
+139 
+Reference 
+Chemical Form 
+Musil et al. 1964 
+Chlorite 
+Moore and Calabrese 1982 
+Chlorine Dioxide 
+Moore and Calabrese 1982 
+Chlorite 
+Moore and Calabrese 1982 
+Sodium Chlorite 
+Carlton et al. 1987 
+Chlorite 
+Carlton et al. 1991 
+Chlorine dioxide 
+Table 3-2 Levels of Significant Exposure to Chlorine Dioxide And Chlorite - Oral (continued) 
+Exposure/ LOAEL Key to a Species figure (Strain) Duration/ Frequency (Specific Route) NOAEL Less Serious System (mg/kg/day) (mg/kg/day) Serious (mg/kg/day) Reference 
+Chemical Form 
+7 Rat 16 wk (Sprague- (W) 29 Gill et al. 2000 Chlorite Dawley) 
+8 Rat 13 wk (Sprague- (W) 1.3 13 decreased number of implants Suh et al. 1983 Chlorine dioxide Dawley) 
+Developmental 9 Rat 8 wk (Long- Evans) (W) 0.9 M 9 M decreased serum T3 and T4 levels Carlton et al. 1987 Chlorite 10 Rat 16 wk (Sprague- (W) Dawley) 2.9 b M 5.7 M lowered auditory startle response amplitude on postnatal day 24 Gill et al. 2000 Chlorite 11 Rat 9 wk (Sprague- (W) Dawley) 13 M decreased litter weight and exploratory activity Mobley et al. 1990 Chlorine dioxide 12 Rat 9 wk (Sprague- (W) Dawley) 2.6 M 5.2 M decreased exploratory activity on postnatal days 36-39 Mobley et al. 1990 Chlorite 29 131 
+1.3 
+146 
+13 
+0.9 
+135 
+9 
+2.9 
+129 
+5.7 
+132 
+13 
+2.6 
+133 
+5.2 
+Table 3-2 Levels of Significant Exposure to Chlorine Dioxide And Chlorite - Oral (continued) 
+Exposure/ LOAEL Key to a Species figure (Strain) Duration/ Frequency (Specific Route) NOAEL Less Serious System (mg/kg/day) (mg/kg/day) Serious (mg/kg/day) Reference 
+Chemical Form 
+13 Rat 8 wk (Sprague- (W) Dawley) 
+2.6 F 13 F altered serum thyroid hormone 2.6 levels Orme et al. 1985 Chlorine dioxide 140 
+14 Rat ppd 5-20 (Sprague- (W) Dawley) 14 decreased activity, decreased serum T4 Orme et al. 1985 Chlorine dioxide 15 Rat 13 wk (Sprague- (W) 1.3 Dawley) 13 decreased number of live fetuses Suh et al. 1983 Chlorine dioxide 16 Rat 13 wk (Sprague- (W) 1.3 Suh et al. 1983 Chlorite Dawley) 
+17 Rat 8 wk (Sprague- (W) Dawley) 13 M decreased activity, decreased brain weight and cell number Taylor and Pfohl 1985 Chlorine dioxide 18 Rat ppd 5-20 (Sprague- (GW) Dawley) 14 M decreased activity, decreased brain weight and DNA content Taylor and Pfohl 1985 Chlorine dioxide 19 Rat ppd 1-20 (Long- Evans) (GW) 14 decreased brain weight and protein content Toth et al. 1990 Chlorine dioxide 13 141 
+14 
+1.3 
+145 
+13 
+1.3 
+147 
+142 
+13 
+143 
+14 
+144 
+14 
+Table 3-2 Levels of Significant Exposure to Chlorine Dioxide And Chlorite - Oral (continued) 
+Exposure/ LOAEL Key to a Species figure (Strain) Duration/ Frequency (Specific Route) NOAEL Less Serious System (mg/kg/day) (mg/kg/day) Serious (mg/kg/day) Reference 
+Chemical Form 
+20 Mouse 6 wk A/J (W) 23 decreased average pupweaning weight and birth-to-weaning 
+Moore et al. 1980b Chlorite growth rate 
+aThe number corresponds to entries in Figure 3-2. 
+b An intermediate-duration oral MRL of 0.1 mg/kg/d was derived from a NOAEL of 2.9 mg/kg/day and divided by an uncertainty factor of 30 (10 for interspecies extrapolation and 3 to account for sensitive populations). 
+d = day(s); F = Female; G = gavage; hr = hour(s); GW = gavage in water; LOAEL = lowest-observed-adverse-effect level; M = male; NOAEL = no-observed-adverse-effect level; ppd = post parturition day; (W) = drinking water; wk = week(s) 
+23 148 
+Figure 3-2. Levels of Significant Exposure to Chlorine Dioxide And Chlorite- Oral 
+Acute (≤14 days) Intermediate (15-364 days) 
+Systemic 
+mg/kg/day 
+Death 
+Hematological 
+Reproductive 
+Developmental 
+1r 100 
+2m 3m 4m 
+7r 20m 8r 11r 13r 14r 15r 17r 18r 19r 10 5r 6r 9r 10r 12r 
+10r 12r 13r 
+8r 15r 16r 1 5r 9r 
+0.1 c-Cat d-Dog r-Rat p-Pig q-Cow -Humans k-Monkey m-Mouse h-Rabbit a-Sheep f-Ferret j-Pigeon e-Gerbil s-Hamster g-Guinea Pig n-Mink o-Other Cancer Effect Level-Animals LOAEL, More Serious-Animals LOAEL, NOAEL Less - Animals Serious-Animals Cancer Effect Level-Humans LOAEL, LOAEL, NOAEL 1000 
+More Less - Humans Serious-Humans Serious-Humans LD50/LC50 Minimal for effects Risk Level other than Cancer 
+32 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+nasal effects were likely caused by inhalation of chlorine dioxide vapors released from the water rather 
+than a systemic respiratory effect following oral exposure. 
+Gastrointestinal Effects. Information in humans is limited to a single account of abdominal cramps, 
+nausea, and vomiting within a few minutes after a 25-year-old Chinese male had consumed 10 g of 
+sodium chlorite dissolved in 100 mL of water in an apparent suicide attempt (Lin and Lim 1993). 
+Information regarding gastrointestinal effects in animals following oral exposure to chlorine dioxide or 
+chlorite is also limited. Bercz et al. (1982) reported erythema and ulceration of the oral mucosa in adult 
+African green monkeys exposed to chlorine dioxide in the drinking water for between 30 and 60 days at a 
+concentration that resulted in a dose of approximately 9 mg/kg/day. Dose-related increased severity of 
+salivation and histopathologic alterations in the stomach (including squamous epithelial hyperplasia, 
+hyperkeratosis, ulceration, chronic inflammation, and edema) were observed in groups of rats 
+administered sodium chlorite in gavage doses of 25 or 80 mg/kg/day (equivalent to 19 or 60 mg 
+chlorite/kg/day, respectively) for 13 weeks; these effects were not seen at a dose level of 7.4 mg 
+chlorite/kg/day (Harrington et al. 1995a). 
+Hematological Effects. Profound methemoglobinemia was diagnosed in a 25-year-old Chinese male 
+after he had consumed 10 g of sodium chlorite dissolved in 100 mL of water in an apparent suicide 
+attempt (Lin and Lim 1993). Other hematological effects, including ensuing intravascular coagulation, 
+were likely secondary to the methemoglobinemia that persisted despite treatment with methylene blue. 
+No indications of altered hematological parameters were seen in adult male subjects consuming chlorine 
+dioxide in aqueous solution that resulted in a single dose of approximately 0.34 mg/kg of chlorine dioxide 
+(Lubbers et al. 1981) or in other adult males consuming approximately 0.04 mg/kg/day for 12 weeks 
+(Lubbers et al. 1981, 1984a). The same investigators tested chlorite for adverse effects in healthy adult 
+males, and found no evidence of hematological effects after each subject consumed of a total of 1,000 mL 
+of a solution containing 2.4 mg/L chlorite (approximately 0.068 mg/kg) in two doses (separated by 
+4 hours), or in other healthy normal or glucose-6-phosphate dehydrogenase (G6PD) deficient male 
+subjects who consumed approximately 0.04 mg/kg/day for 12 weeks (Lubbers et al. 1981, 1984a, 1984b). 
+No chlorine dioxide- or chlorite-induced hematological effects were seen among the inhabitants of a rural 
+village who were exposed for 12 weeks via chlorine dioxide in the drinking water at weekly measured 
+concentrations ranging from 0.25 to 1.11 mg/L (chlorine dioxide) or from 3.19 to 6.96 mg/L (chlorite) 
+(Michael et al. 1981). In this epidemiological study, levels of chlorine dioxide in the drinking water 
+before and after the treatment period were <0.05 mg/L. The chlorite level in the drinking water was 
+33 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+0.32 mg/L prior to chlorine dioxide treatment. At 1 and 2 weeks following cessation of treatment, 
+chlorite levels dropped to 1.4 and 0.5 mg/L, respectively. 
+Some animal studies include reports of hematological effects following oral exposure to chlorine dioxide 
+or chlorite. Abdel-Rahman and coworkers (Abdel-Rahman et al. 1984b; Couri and Abdel-Rahman 1980) 
+exposed groups of male rats to chlorine dioxide in the drinking water, 20 hours/day for 11 or 12 months, 
+at concentrations that resulted in estimated doses of 0.1, 1, 10, and 100 mg/kg/day. Abdel-Rahman et al. 
+(1984b) noted that several hematological parameters were significantly altered in exposed rats, relative to 
+controls, and included decreased osmotic fragility in the 10 and 100 mg/kg/day groups after 2, 4, 7, or 
+9 months of exposure, and in the 1 mg/kg/day group after 9 months of exposure; decreased erythrocyte 
+counts in the 0.1 mg/kg/day and 100 mg/kg/day groups after 9 months of exposure, but not after 
+7 months; reduced hematocrit and hemoglobin levels in all groups at 9 months that did not exhibit clear 
+dose-response patterns; increased hematocrit levels in the 10 and 100 mg/kg/day groups at 7 months; and 
+increased mean corpuscular hemoglobin concentrations in the 10 and 100 mg/kg/day groups after 
+9 months. The study authors suggested that the decreased osmotic fragility may have been related to the 
+disulfide bond between hemoglobin and the cell membrane as the result of oxidative stress. Couri and 
+Abdel-Rahman (1980) found significant increases in blood glutathione reductase levels in rats of the 
+1, 10, and 100 mg/kg/day groups after 6 months of exposure. At 12 months of exposure, the blood 
+glutathione reductase levels in all exposure groups were similar to those of controls, but the levels of 
+blood glutathione peroxidase were significantly increased at 10 and 100 mg/kg/day. Blood catalase levels 
+were increased in the 100 mg/kg/day group after 6 and 12 months of exposure and decreased in the 
+0.1 and 1 mg/kg/day groups after 6 months of exposure. The results of Couri and Abdel-Rahman (1980) 
+generally indicate that chlorine dioxide and chlorite may induce increased blood glutathione oxidase 
+activity and resulting decreased blood glutathione levels, which is consistent with the protective role of 
+glutathione against oxidative cellular damage. 
+Abdel-Rahman and coworkers (Abdel-Rahman et al. 1984b; Couri and Abdel-Rahman 1980) also 
+exposed male rats to sodium chlorite in the drinking water, 20 hours/day for up to 1 year, at 
+concentrations that resulted in estimated doses of 1 or 10 mg/kg/day. Both dose levels resulted in 
+increased mean corpuscular hemoglobin concentration (after 7, but not 9 months) and decreased osmotic 
+fragility after 7–9 months). Erythrocyte glutathione levels were significantly decreased at dose levels 
+0.1 mg/kg/day by the end of the 1-year exposure period. No consistent treatment-related alterations in 
+erythrocyte count, hematocrit, or hemoglobin levels were observed. 
+34 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Harrington et al. (1995a) administered sodium chlorite to rats by gavage for 13 weeks, resulting in 
+chlorite doses of 7.4, 19, or 60 mg/kg/day. Relative to controls, significant treatment-related 
+hematological effects included decreased hematocrit and hemoglobin levels (high-dose males), increased 
+methemoglobin and neutrophil levels (mid- and high-dose males), decreased lymphocyte count (mid-dose 
+males), decreased mean erythrocyte count (high-dose males and females), morphological changes in 
+erythrocytes (high-dose males and females), and increased spleen weights (high-dose males and mid- and 
+high-dose females). An unexplained decrease in methemoglobin was observed in high-dose females. 
+No consistent alterations in hematological parameters (erythrocyte and total and differential leukocyte 
+counts, hemoglobin levels, hematocrit, mean corpuscular volume) were observed in groups of male and 
+female rats given chlorine dioxide in the drinking water for 90 days at concentrations that resulted in 
+doses as high as 12 and 15 mg/kg/day for males and females, respectively (Daniel et al. 1990). 
+No significant alterations in hematological parameters were seen in adult African green monkeys given 
+chlorine dioxide in the drinking water for up to 60 days at rising concentrations that resulted in estimated 
+doses as high as 9 mg/kg/day (Bercz et al. 1982). Bercz and coworkers later exposed these same 
+monkeys to sodium chlorite in the drinking water in rising concentrations that resulted in estimated 
+chlorite doses as high as 58.4 mg/kg/day. Statistically significant dose-related hematological alterations 
+in these monkeys included decreased erythrocyte levels and cell indices, decreased hemoglobin levels, 
+and slight increases in reticulocyte and methemoglobin levels. However, the data were not presented in a 
+manner that would allow identification of threshold doses for these effects. 
+Moore and Calabrese (1982) found no significant alterations in hematological parameters within groups 
+of mice exposed to chlorine dioxide in the drinking water for 30 days, at a concentration that resulted in 
+an estimated dose of 25 mg/kg/day. However, when similarly examining the hematotoxicity of chlorite, 
+Moore and Calabrese (1982) found significant increases in mean corpuscular volume and osmotic 
+fragility at a dose level of 19 mg/kg/day. 
+Heffernan et al. (1979b) observed significant methemoglobinemia within 1–2 hours in cats that had been 
+administered chlorite in single doses of 20 or 64 mg/kg. These same investigators found no signs of 
+methemoglobinemia in rats exposed to sodium chlorite in the drinking water for 30–90 days at 
+concentrations that resulted in estimated chlorite doses as high as 50 mg/kg/day. Doses ≥10 mg/kg/day 
+resulted in slight anemia at 30 days, but this condition appeared to improve at 60 and 90 days. 
+35 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Hepatic Effects. No indications of adverse hepatic effects (assessed in tests of serum chemistry) were 
+seen in adult male subjects consuming chlorine dioxide in aqueous solution that resulted in a dose of 
+approximately 0.34 mg/kg (Lubbers et al. 1981) or in other adult males consuming approximately 
+0.04 mg/kg/day for 12 weeks (Lubbers et al. 1984a). The same investigators administered chlorite to 
+healthy adult males, and found no evidence of adverse hepatic effects after each subject had consumed of 
+a total of 1,000 mL of a solution containing 2.4 mg/L chlorite (approximately 0.068 mg/kg) in two doses 
+(separated by 4 hours), or in other healthy normal or G6PD deficient male subjects who had consumed 
+approximately 0.04 mg/kg/day for 12 weeks (Lubbers et al. 1984a, 1984b). No chlorine dioxide- or 
+chlorite-induced signs of altered liver function were seen among the inhabitants of a rural village who 
+were exposed for 12 weeks via chlorine dioxide in the drinking water at weekly measured concentrations 
+ranging from 0.25 to 1.11 mg/L (chlorine dioxide) or from 3.19 to 6.96 mg/L (chlorite) (Michael et al. 
+1981). In this epidemiological study, levels of chlorine dioxide in the drinking water before and after the 
+treatment period were <0.05 mg/L. The chlorite level in the drinking water was 0.32 mg/L prior to 
+chlorine dioxide treatment. At 1 and 2 weeks following cessation of treatment, chlorite levels dropped to 
+1.4 and 0.5 mg/L, respectively. 
+Limited information is available regarding hepatic effects in animals following oral exposure to chlorine 
+dioxide or chlorite. Daniel et al. (1990) exposed male and female rats to chlorine dioxide in the drinking 
+water for 90 days at concentrations that resulted in estimated doses of 1.9, 3.6, 6.2, or 11.5 mg/kg/day for 
+males and 2.4, 4.6, 8.2, or 14.9 mg/kg/day for females. Significantly depressed mean absolute liver 
+weights were observed in males at doses ≥3.6 mg/kg/day and females of the 8.2 mg/kg/day dose group. 
+However, these groups also exhibited decreased water consumption. Moore and Calabrese (1982) found 
+significant increases in G6PD activity in mice receiving sodium chlorite in the drinking water for 30 days 
+at a concentration that resulted in a chlorite dose of 19 mg/kg/day. 
+Renal Effects. No chlorine dioxide- or chlorite-induced signs of altered renal function were seen 
+among the inhabitants of a rural village who were exposed for 12 weeks via chlorine dioxide in the 
+drinking water at weekly measured concentrations ranging from 0.25 to 1.11 mg/L (chlorine dioxide) or 
+from 3.19 to 6.96 mg/L (chlorite) (Michael et al. 1981). In this epidemiological study, levels of chlorine 
+dioxide in the drinking water before and after the treatment period were <0.05 mg/L. The chlorite level in 
+the drinking water was 0.32 mg/L prior to chlorine dioxide treatment. At 1 and 2 weeks following 
+cessation of treatment, chlorite levels dropped to 1.4 and 0.5 mg/L, respectively. Acute renal failure 
+developed in a 25-year-old Chinese male some days after he had consumed 10 g of sodium chlorite 
+36 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+dissolved in 100 mL of water in an apparent suicide attempt (Lin and Lim 1993), but this effect followed 
+earlier signs of profound methemoglobinemia and respiratory distress. 
+Information regarding renal effects in animals is limited. Moore and Calabrese (1982) found no evidence 
+of renal effects in mice exposed to sodium chlorite in the drinking water for up to 180 days at a 
+concentration that resulted in an estimated chlorite dose of 25 mg/kg/day. Haag (1949) reported 
+treatment-related pathological effects (distension of the glomerular capsule and appearance of a pale 
+pinkish staining material in the renal tubules) in the kidneys of rats exposed to chlorite in the drinking 
+water for 2 years at concentrations that resulted in estimated doses of 7 or 13 mg/kg/day. Increased 
+relative kidney weights, in the absence histopathological renal effects, were observed in rats administered 
+sodium chlorite in gavage doses of 80 mg/kg/day (equivalent to 60 mg chlorite/kg/day) for 13 weeks 
+(Harrington et al. 1995a). 
+Endocrine Effects. No reports were located in which endocrine effects could be associated with oral 
+exposure to chlorine dioxide or chlorite in humans. 
+Information from animal studies is limited to accounts of significantly reduced serum levels of the T4 
+thyroid hormone in African green monkeys consuming approximately 9 mg chlorine dioxide/kg/day from 
+the drinking water for 6 weeks or approximately 58.4 mg chlorite/kg/day for 8 weeks (Bercz et al. 1982), 
+and a single report of significantly increased adrenal weight in female rats administered sodium chlorite 
+gavage doses ≥25 mg/kg/day (≥19 mg chlorite/kg/day) for 13 weeks (Harrington et al. 1995a). Refer to 
+Section 3.2.2.6 for information regarding altered serum hormone levels in laboratory animals that had 
+been exposed via their mothers during prenatal and postnatal development. 
+Body Weight Effects. No reports were located in which body weight effects could be associated 
+with oral exposure to chlorine dioxide or chlorite in humans. 
+Abdel-Rahman et al. (1984b) reported significantly reduced body weight gain (up to 18% lower than 
+controls) in male rats exposed to chlorine dioxide in the drinking water for 11 months at concentrations 
+resulting in estimated doses ranging from 0.12 to 120 mg/kg/day. The same authors reported similar, but 
+less pronounced, reduced body weight gain in rats exposed to sodium chlorite at concentrations that 
+resulted in chlorite doses of approximately 1.2 and 12 mg/kg/day. Although this effect appeared earlier at 
+the highest concentration, mean terminal body weight after 11 months of exposure was lower in low-dose 
+rats than in high-dose rats. Furthermore, the authors did not provide information regarding water and 
+37 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+food consumption. Kurokawa et al. (1986) reported slightly decreased body weight gain (<10% lower 
+than controls) in male and female rats exposed to sodium chlorite in the drinking water for up to 85 weeks 
+at concentrations that resulted in estimated chlorite doses of 13.5 and 24 mg/kg/day in males and 21 and 
+31 mg/kg/day in females. The results of Kurokawa et al. (1986) are of questionable toxicological 
+significance because water intake among sodium chloride treatment groups was lower than that of 
+controls and the study had to be terminated early due to a Sendai virus infestation within all study groups. 
+Harrington et al. (1995a) found no significant adverse body weight effects in rats administered up to 
+60 mg chlorite/kg/day (via gavage) for 13 weeks. No treatment-related effects on body weight were seen 
+in male rats that were administered chlorine dioxide in gavage doses of 2.5, 5, or 10 mg/kg/day for 
+56 days prior to mating and 10 more days during mating, or in female rats administered the same doses 
+for 14 days prior to mating and throughout mating, gestation, and lactation (Carlton et al. 1991). No 
+significant adverse body weight effects were seen in mice given sodium chlorite in the drinking water for 
+up to 180 days at concentrations resulting in estimated chlorite doses as high as 25 mg/kg/day (Moore and 
+Calabrese 1982) or in other mice exposed to sodium chlorite for 80 weeks at a concentration that resulted 
+in an estimated chlorite dose of 90 mg/kg/day (Kurokawa et al. 1986). 
+3.2.2.3 Immunological and Lymphoreticular Effects 
+No reports were located in which immunological or lymphoreticular effects could be associated with oral 
+exposure to chlorine dioxide or chlorite in humans. 
+Animal data are restricted to limited accounts of treatment-related altered thymus and spleen weights. 
+Daniel et al. (1990) observed reduced spleen weights in female, but not male, rats exposed to chlorine 
+dioxide in the drinking water for 90 days at concentrations that resulted in estimated doses ranging from 
+2 to 15 mg/kg/day, but the basis for this effect was not discussed. Harrington et al. (1995a) found 
+significantly increased spleen weights in male rats administered sodium chlorite by gavage at a dose level 
+of 80 mg/kg/day (60 mg chlorite/kg/day) for 13 weeks and in female rats similarly treated with 10 or 
+60 mg chlorite/kg/day. In this study, increased spleen weights were attributed to morphological changes 
+in erythrocytes. Significantly lower spleen and thymus weights were seen in F1 and F2 rats that had been exposed to sodium chlorite via their mothers during gestation and lactation and via the drinking water 
+after weaning (Gill et al. 2000). 
+38 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+3.2.2.4 Neurological Effects 
+No reports were located in which neurological effects could be associated with oral exposure to chlorine 
+dioxide or chlorite in humans or animals. Refer to Section 3.2.2.6 for information regarding 
+neurodevelopmental effects. 
+3.2.2.5 Reproductive Effects 
+No reports were located in which reproductive effects could be associated with oral exposure to chlorine 
+dioxide or chlorite in humans. 
+A paucity of evidence exists for reproductive effects in animals following oral exposure to chlorine 
+dioxide or chlorite. Slight, but significantly altered sperm morphology and motility were observed in 
+male rats exposed to sodium chlorite in the drinking water for 66–76 days at concentrations that resulted 
+in estimated chlorite doses of 9 and 37 mg/kg/day. No dose-related alterations in fertility rates or 
+reproductive tissues (both gross and histopathological examination) were seen and no adverse effects 
+were observed at a chlorite dose level of 0.9 mg/kg/day (Carlton and Smith 1985; Carlton et al. 1987). 
+Significantly decreased testicular deoxyribonucleic acid (DNA) synthesis was noted in male rats given 
+chlorine dioxide or chlorite (as sodium salt) in the drinking water for 3 months at concentrations that 
+resulted in estimated chlorine dioxide and chlorite doses ≥1.3 and 0.13 mg/kg/day, respectively (Abdel- 
+Rahman et al. 1984b), and other male rats exposed for 3 weeks to a concentration that resulted in a 
+chlorine dioxide dose of 13 mg/kg/day or a chlorite dose of 1.3 mg/kg/day (Suh et al. 1983). A treatment- 
+related decreased number of implants was noted in untreated females that had been mated with chlorine 
+dioxide-treated males of the 13 mg/kg/day level (Suh et al. 1983). No significant increases in abnormal 
+sperm-head morphology were seen in mice given chlorine dioxide or chlorite in gavage doses as high as 
+16 and 40 mg/kg/day, respectively, for 5 days followed by 3 weeks without treatment prior to testing 
+(Meier et al. 1985). Carlton et al. (1991) found no significant treatment-related effects on fertility rates or 
+sperm parameters in rats following the administration of chlorine dioxide in gavage doses as high as 
+10 mg/kg/day for 56 days prior to mating and throughout a 10-day mating period (males) and 14 days 
+prior to mating and throughout mating, gestation, and lactation (females). 
+The highest NOAEL values and all LOAEL values from each reliable study for reproductive effects in 
+each species and duration are recorded in Table 3-2 and plotted in Figure 3-2. 
+39 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+3.2.2.6 Developmental Effects 
+Information regarding developmental effects in humans following oral exposure to chlorine dioxide or 
+chlorite is limited. 
+Tuthill et al. (1982) retrospectively compared infant morbidity and mortality data for a community that 
+had utilized chlorine dioxide as a drinking water disinfectant in the 1940s with data of a neighboring 
+community that used conventional drinking water chlorination practices. Exposure to chlorine dioxide- 
+treated water did not adversely affect fetal or perinatal mortality, or birth weight, maximum weight loss, 
+weight loss at 6 days, sex ratio, or birth condition. The authors reported a significantly greater proportion 
+of premature births in the community using chlorine dioxide, as judged by physician assessment. 
+However, other measures of premature birth, such as birth weight and gestational age, did not support the 
+results based on physician assessment. Infants from the community using chlorine dioxide exhibited 
+statistically significantly greater maximum weight loss after birth and smaller weight gain in 6 days, 
+although these effects appeared to be partially linked to the mode of feeding practiced by the mother. 
+Kanitz et al. (1996) followed 548 births at Galliera Hospital, Genoa, Italy, and 128 births at Chiavari 
+Hospital, Chiavari, Italy, during 1988–1989. Data on infant birth weight, body length, cranial 
+circumference, and neonatal jaundice and on maternal age, smoking, alcohol consumption, education, and 
+preterm delivery were collected from hospital records. Women in Genoa were exposed to filtered water 
+disinfected with chlorine dioxide, sodium hypochlorite, or both; trihalomethane levels varied from 8 to 
+16 ppb in sodium hypochlorite-treated water and from 1 to 3 ppb in chlorine dioxide-disinfected water. 
+Levels of chlorine dioxide in the water immediately after treatment were <0.3 mg/L, while chlorine 
+residue was <0.4 mg/L. Women residing in Chiavari used water pumped from wells, without any 
+disinfection treatment, and served as the comparison group (controls). Odds ratios (ORs) were 
+determined for the somatic parameters by comparison of groups exposed to chlorine dioxide, sodium 
+hypochlorite, or both with controls and adjusted for maternal education level, income, maternal age, 
+alcohol consumption, and smoking, as well as for sex of the child. Neonatal jaundice occurred more 
+frequently (OR=1.7; 95% confidence interval [CI]=1.1–3.1) in infants whose mothers resided in the area 
+where surface water was disinfected with chlorine dioxide, when compared with infants with mothers 
+using nondisinfected well water. Infants born to mothers residing in areas where surface water was 
+disinfected had smaller cranial circumference (≤35 cm) (OR=2.2, 95% CI=1.4–3.9 for chlorine dioxide; 
+OR=3.5, 95% CI=2.1–8.5 for sodium hypochlorite vs. untreated well water; OR=2.4, 95% CI=1.6–5.3 for 
+40 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+both vs. untreated well water). In addition, these infants had a smaller body length (≤49.5 cm) (OR=2.0, 
+95% CI=1.2–3.3 for chlorine dioxide vs. untreated well water; OR=2.3, 95% CI=1.3–4.2 for sodium 
+hypochlorite vs. untreated well water). Risks for low birth weight (≤2,500 g) were reported to be 
+increased among mothers residing in areas using water disinfected with chlorine dioxide, but these 
+associations were not statistically significant. For preterm delivery (≤37 weeks), small but not 
+statistically significant increased risks were found among mothers residing in the area using chlorine 
+dioxide. The study authors concluded that infants of women who consumed drinking water treated with 
+chlorine compounds during pregnancy were at higher risk for neonatal jaundice, cranial circumference 
+≤35 cm, and body length ≤49.5 cm. 
+Interpretability of the results of Kanitz et al. (1996) is limited by lack of consideration of exposure and 
+potential confounding variables such as lack of quantitative exposure information, exposure to other 
+chemicals in the water, and nutritional habits of the women. In addition, baseline values for the infant sex 
+ratio and percentage of low-weight births for the comparison group deviate from values presented by the 
+World Health Organization for Italy. For example, the sex ratio (male/female live births x100) used in 
+the study for the comparison group was 86, but most recent data (1996; as cited in WHO 2002) for Italy 
+indicate a sex ratio value of 106. Although the percentage of low-weight births in the control group for 
+the Kanitz et al. (1996) study was 0.8%, the percentage of low-weight births (<2,500 g) in Italy for 1994 
+was 6%. The quality of the untreated well water is not known (i.e., whether it contained any chemical or 
+biological contaminants). 
+Källén and Robert (2000) found no adverse effects on congenital malformations, childhood cancer, infant 
+mortality, low Apgar score, neonatal jaundice, or neonatal hypothyroidism among infants and children 
+who lived in areas where drinking water was disinfected with chlorine dioxide, compared to controls 
+living in areas where chlorination of drinking water was not practiced. This study is limited because 
+levels of chlorination products and byproducts in the drinking water were not monitored. 
+Numerous animal studies are available in which developmental end points have been evaluated following 
+oral exposure to chlorine dioxide or chlorite. Some studies cited effects such as decreases in brain 
+weight, brain cell number, exploratory behavior, locomotor activity, and serum thyroxine levels in rat 
+pups whose mothers were exposed to chlorine dioxide before mating and during gestation and lactation 
+and other rat pups that were directly exposed via oral gavage only during postnatal development. Effects 
+such as decreases in serum thyroxine levels, body weight and growth, exploratory behavior, and 
+41 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+amplitude of auditory startle response were reported in rat pups whose mothers were exposed to chlorite 
+before mating and during gestation and lactation. 
+Chlorine Dioxide. Mobley et al. (1990) administered chlorine dioxide in the drinking water of female 
+rats for 10 days prior to mating with unexposed males, and during gestation and lactation (until 
+postconception days 35–42) at a concentration that resulted in an estimated dose of 13 mg/kg/day. No 
+treatment-related effects were seen in litter size at birth, pup weight gain, or day of eye opening. Litter 
+weight at birth was significantly lower (5%) than controls. At ages 36 through 39 days postconception, 
+exploratory activity was significantly depressed, relative to controls, but not on day 40. On 
+postconception days 37 and 38, no significant treatment-related effects were seen in serum T3 or T4 
+levels in male pups (serum thyroid hormone levels were not tested in female pups), but T3 uptake was 
+significantly decreased. By postconception day 42, T3 uptake in the exposed male pups was no longer 
+significantly different from controls. The authors suggested that reduced T3 uptake may be the source of 
+delay in exploratory activity. 
+Orme et al. (1985) exposed rat dams to chlorine dioxide in the drinking water for 2 weeks prior to mating 
+and throughout gestation and lactation at concentrations resulting in estimated doses of 0.26, 2.6, or 
+13 mg/kg/day. Maternal body weights were not significantly affected by treatment. No significant 
+treatment-related effects were seen in pup body weights or age at eye opening. Consistent, but not 
+significantly lower activity levels were observed in 13 mg/kg/day pups, relative to controls, on 
+postpartum days 15–20. At 13 mg/kg/day, pups also exhibited significantly depressed serum T4 and 
+elevated T3 levels, relative to controls, when tested on postpartum day 21. A significant correlation was 
+noted between T4 levels and locomotor activity. In the same report, pups of unexposed rat dams were 
+administered chlorine dioxide in a gavage dose of 14 mg/kg/day on postnatal days 5–20. Relative to 
+controls, treated pups exhibited lower body weights at 14 and 21 days (17 and 33% lower, respectively), 
+lower activity levels at days 18 and 19 (but not days 15–17 and 20), and lower serum T4 levels on 
+postpartum day 21. Age at eye opening and serum T3 levels were not significantly different from 
+controls. A significant correlation was noted between T4 levels and locomotor activity. 
+Taylor and Pfohl (1985) found no significant treatment-related effects on body weights of male rat pups 
+whose mothers had been exposed to chlorine dioxide in the drinking water for 14 days prior to mating and 
+throughout gestation and lactation at a concentration that resulted in an estimated dose of 13 mg/kg/day. 
+Female rat pups were not assessed in this study. Compared with controls, the treated pups exhibited 
+consistently (but not significantly) lower activity levels (assessed at 10–20 days of age), significantly 
+42 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+decreased whole brain weight (primarily because of a decrease in cerebellar weight) and cerebellar total 
+DNA content (due to a decrease in total cell number) in 21-day-old pups, and decreased exploratory 
+activity at 60 days of age. Other pups were exposed to chlorine dioxide only during postnatal days 5–20 
+at a daily gavage dose of 14 mg/kg. At 21 days of age, these pups exhibited significant decreases in body 
+weight, absolute and relative whole brain and forebrain weights, and forebrain DNA content and total cell 
+number, compared with controls. Decreased DNA content and total cell number were seen in the 
+cerebellum and forebrain when tested at 11 days of age. 
+Toth et al. (1990) administered chlorine dioxide to male and female rat pups at a daily gavage dose of 
+14 mg/kg on postnatal days 1–20. Examinations were performed on selected pups at ages 11, 21, and 
+35 days, and results were compared to control pups. Significantly lower (5–7% lower) body weights and 
+decreased ratio of forebrain content to cerebellum weight were noted at all three examination times. 
+Significantly lower forebrain weights were seen on days 21 and 35, along with accompanying reductions 
+in protein content (days 21 and 35) and reduced DNA content (day 35). Serum T3 and T4 levels were not 
+affected by chlorine dioxide treatment. A slight, but statistically significant decrease in free T4 was 
+reported at day 21, but the toxicological significance is not clear. 
+Suh et al. (1983) administered chlorine dioxide in the drinking water of female rats for 2.5 months prior to 
+mating with unexposed males, and during gestation days 1–20 at levels that resulted in estimated doses of 
+0.13, 1.3, or 13 mg/kg/day. The only reported maternal effect was a slight (but not significantly) 
+decreased maternal body weight gain in 1.3 and 13 mg/kg/day dams, relative to controls. Fetal effects 
+included a significant dose-response trend for decreasing number of implants per litter and number of live 
+fetuses per dam, and significantly increased total fetal weights and male fetal weights in the 13 mg/kg/day 
+group, compared with controls. No significant effects were seen in crown-rump length or skeletal 
+anomalies. 
+Carlton et al. (1991) administered chlorine dioxide to rats in gavage doses of 2.5, 5, or 10 mg/kg for 
+56 days prior to mating and during 10 days of mating (males) and 14 days prior to mating and throughout 
+mating, gestation, and lactation (females). Relative to controls, pups in the exposure groups exhibited no 
+significant differences in death before weaning, mean litter size, or mean body weight. Significantly 
+lower absolute vaginal weight and vagina-to-body weight ratio were seen in F1 females of the 10 mg/kg/day exposure group; no significant changes in reproductive organ weights were observed in F1 males. 
+43 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Chlorite. Gill et al. (2000; results previously published in CMA 1996) conducted a 2-generation study to 
+examine reproductive, developmental, neurological, and hematological end points in rats exposed to 
+sodium chlorite. Male and female rats (F0) received sodium chlorite in the drinking water at concentrations that resulted in estimated chlorite doses of 3, 5.7, or 21 mg/kg/day for males and 3.9, 7.6, 
+and 29 mg/kg/day for females. The treatment period lasted for 10 weeks prior to mating and during 
+mating, after which males were sacrificed; exposure of females continued throughout gestation and 
+lactation. Sodium chlorite concentrations were adjusted during lactation to maintain a constant intake 
+during a period of increased water intake. F1 generation pups were continued on the same treatment regimen as their parents (chlorite doses of 2.9, 6, or 23 mg/kg/day and 3.9, 8, or 29 mg/kg/day for F1 males and females, respectively). Mating commenced at approximately 14 weeks of age to produce F2a rats that were maintained through weaning on postnatal day 21. Due to a reduced number of litters in the 
+mid-dose F1-F2a generation, the F1 animals were remated following weaning of the F2a rats to produce an F2b generation. Significant alterations related to treatment at high-dose included reduced absolute and relative liver weight in F1 males and females, reduced pup survival (increase in number of pups found dead and/or killed prematurely during lactation) and reduced body weight at birth and throughout 
+lactation in F1 and F2 rats, lower thymus and spleen weight in both generations, decreased absolute brain weight for F1 males and F2 females, delayed sexual development in F1 and F2 males (preputial separation) and females (vaginal opening), and lowered red blood cell parameters and white blood cell counts in F1 rats. In the mid-dose groups, reduced absolute and relative liver weight in F1 males was observed. In addition, a significant decrease in maximum response to an auditory startle stimulus was noted in mid- 
+and high-dose groups on postnatal day 24, but not on postnatal day 60. The NOAEL of 2.9 mg/kg/day, 
+identified in this study, served as the basis for the derivation of an intermediate-duration oral MRL for 
+chlorite. A LOAEL was 5.7 mg/kg/day for lowered auditory startle response amplitude and 
+hematotoxicity on postnatal day 24. 
+Mobley et al. (1990) exposed female rats to chlorite in the drinking water for 10 days prior to mating with 
+unexposed males and during gestation and lactation until postnatal days 42–53 at concentrations that 
+resulted in estimated chlorite doses of 2.6 or 5.2 mg/kg/day. Chlorite exposure did not adversely affect 
+litter size or pup weight gain. Significant, consistent decreases in exploratory activity were observed in 
+the 5.2 mg/kg/day group on postnatal days 36–39, but not on days 39–41. In the 2.6 mg/kg/day group, 
+there were significant decreases in activity on days 36 and 37, but not on days 38–40. No significant 
+alterations in serum T3 or T4 levels or free T4 levels were observed in male pups (female pups were not 
+assessed for thyroid hormone levels). The day of eye opening in the treatment groups was similar to that 
+of controls. 
+44 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Carlton et al. (1987) exposed groups of 12 male rats to sodium chlorite in the drinking water for 56 days 
+prior to mating and throughout a 10-day mating period. Groups of 24 female rats were also exposed to 
+sodium chlorite for 14 days prior to mating, during the mating period, and throughout gestation and 
+lactation. Estimated chlorite doses were 0.09, 0.9, or 9 mg/kg/day for males and 0.1, 1, or 10 mg/kg/day 
+for females. No significant alterations in litter survival rates, median day of eye opening, or median day 
+of observed vaginal patency were observed. Significant decreases in serum T3 and T4 levels were 
+consistently observed in high-dose groups of F1 males and females at postnatal days 21 and 40. 
+Couri et al. (1982b) exposed pregnant rats to sodium chlorite in the drinking water during gestational 
+days 8–15 at concentrations that resulted in estimated chlorite doses of 70, 440, or 610 mg/kg/day. The 
+litters were either delivered at term or by cesarean section on gestational day 22. Significant decreases in 
+crown-rump length were observed at all doses in term-delivered litters and in the 70 mg/kg/day group that 
+was cesarean-delivered. Fetal weights were not adversely affected. An increase in the number of 
+resorbed and dead fetuses was observed in cesarean-delivered litters of all exposure levels; two litters out 
+of five were totally resorbed in the high-dose group. Postnatal growth and the incidences of soft tissue 
+and skeletal malformations were not adversely affected. 
+Suh et al. (1983) administered chlorite in the drinking water of female rats for 2.5 months prior to mating 
+with unexposed males and during gestational days 0–20 at chlorite concentrations that resulted in 
+estimated doses of 0.13 or 1.3 mg/kg/day; the dams were killed on gestational day 20. No treatment- 
+related effects were seen regarding resorptions, dead fetuses, or fetal body weights. Crown-rump length 
+was significantly higher in the high-dose group compared with controls, but the difference was very small 
+and is probably not biologically significant. Chlorite exposure did not significantly alter incidence of 
+skeletal anomalies. 
+Moore and coworkers (Moore and Calabrese 1982; Moore et al. 1980b) exposed pregnant mice to sodium 
+chlorite in the drinking water throughout gestation and lactation at a concentration that resulted in an 
+estimated chlorite dose of 23 mg/kg/day. A decrease in the conception rate (number of females positive 
+for vaginal plug/number of females producing litters; 39 vs. 56% in controls) was observed; the statistical 
+significance was not reported. No significant alterations in gestation length, litter size, number of pups 
+dead at birth, or number of pups alive at weaning were observed. Pup growth was adversely affected, as 
+shown by significant decreases in average pup weaning weight and birth-to-weaning growth rate. 
+45 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Harrington et al. (1995b) treated rabbits with sodium chlorite via their drinking water on gestation 
+days 7–20 at levels that resulted in estimated chlorite doses of 10, 26, or 40 mg/kg/day. Dams were 
+sacrificed on gestation day 28. Although the number and mean percentage of major external and visceral 
+and skeletal abnormalities were increased in the 26 and 40 mg/kg/day groups (external/visceral: 6.6 and 
+2.9%, respectively, vs. 1.5% in controls; skeletal: 5.4 and 0%, respectively, vs. 0% in controls), the 
+authors did not consider these to be treatment-related adverse effects. Mean fetal weights in the 26 and 
+40 mg/kg/day groups were slightly decreased (<9%, relative to controls). In the 26 and 40 mg/kg/day 
+groups, the incidence of minor skeletal abnormalities (13.9 and 14.2% for the 26 and 40 mg/kg/day 
+groups, respectively, vs. 7.7% in controls) and skeletal variants related to incomplete fetal bone 
+ossification was higher than for controls. The authors state in their discussion that these alterations in 
+fetal body weight and delayed ossification indicate embryonic growth retardation. Decreases in maternal 
+food and water consumption and body weight gain may be responsible, at least in part, for some of the 
+fetal effects. 
+Skowronski et al. (1985) administered Alcide (a liquid sterilizer consisting of sodium chlorite and lactic 
+acid that form chlorine dioxide) to mice and rats in gavage doses of 1 and 0.1 mL, respectively, on 
+gestation days 6–15. No signs of maternal toxicity were observed, and there were no statistically 
+significant adverse fetal effects. 
+The highest NOAEL values and all LOAEL values from each reliable study for developmental effects in 
+each species and duration are recorded in Table 3-2 and plotted in Figure 3-2. 
+3.2.2.7 Cancer 
+No reports were located in which cancer could be associated with oral exposure to chlorine dioxide or 
+chlorite in humans. 
+Kurokawa et al. (1986) performed a cancer bioassay on rats and mice that were exposed to sodium 
+chlorite in the drinking water. Rats were exposed to concentrations that resulted in estimated chlorite 
+doses of 13.5 or 24 mg/kg/day in males and 21 or 31 mg/kg/day in females. All groups of rats became 
+infected with the Sendai virus, causing a premature termination of the study after 85 weeks of exposure. 
+Mice were exposed for 80 weeks to concentrations that resulted in estimated doses of 45 or 90 mg/kg/day. 
+Mice received distilled water only for an additional 5 weeks following the 80-week treatment period. 
+Yokose et al. (1987) also published a report of the mouse data presented in Kurokawa et al. (1986). The 
+46 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+two accounts vary slightly in exposure duration information and in reported numbers of tumor-bearing 
+mice at study end. Yokose et al. (1987) indicated that exposure of mice was terminated at 80 weeks 
+according to a guideline for carcinogenicity studies from the Ministry of Health and Welfare of Japan. 
+No chlorite-related increased tumor incidences were observed in rats. Significant increases in liver and 
+lung tumors were observed in the male mice. Incidence of hyperplastic nodules in the liver was 
+significantly increased in the low- and high-dose groups relative to controls (3/35 [reported as 6/35 in 
+Yokose et al. 1987], 14/47, and 11/43, in the control, low-, and high-dose groups, respectively) and 
+combined incidence of liver hyperplastic nodules and hepatocellular carcinoma was increased in the low- 
+dose group (7/35, 22/47, and 17/43, respectively). Incidence of lung adenoma (0/35, 2/47, and 5/43, 
+respectively) and combined incidence for lung adenoma and adenocarcinoma (0/35, 3/47, and 7/43, 
+respectively) were significantly increased in the high-dose group compared with controls. The study 
+authors noted that incidences of liver hyperplastic nodules and lung adenomas in the treated animals were 
+within the range of historical controls in their laboratory and in the National Toxicology Program 
+laboratories. In addition, high mortality in the control males because of fighting reduced the sample size, 
+making statistical comparisons between controls and treated animals difficult to interpret. In the female 
+mice, the only significant alteration in tumor incidence was a significantly lower incidence of malignant 
+lymphoma/leukemia in the high-dose group (7/47, 5/50, and 1/50, respectively). The exposure durations 
+of both rat and mouse studies were considerably less-than-lifetime exposure guidelines for adequate 
+carcinogenicity studies. 
+Using three short-term assays, Miller et al. (1986) found no evidence of carcinogenic potential of drinking 
+water disinfected with chlorine dioxide. In an initiation-promotion assay, water was disinfected with 
+chlorine dioxide, after which water samples containing chlorine dioxide residue were concentrated and 
+administered orally to mice 3 times/week for 2 weeks. The mice were then exposed to 12-tetradecanyl­ 
+phorbal-13-acetate (a known cancer promoter) in acetone by dermal applications 3 times/week for 
+20 weeks. No significant increases in the number of skin tumors or the number of tumors per animal 
+were observed, compared with vehicle controls. In a lung adenoma assay, groups of female Strain A mice 
+received 0.25 mL gavage doses of the concentrated water samples 3 times/week for 8 weeks, followed by 
+a 16-week observation period. The number of animals with lung adenomas and the number of adenomas 
+per animal were not significantly altered compared with vehicle controls. In the third assay, partially 
+hepatectomized rats were exposed to a single oral dose of the concentrated water samples followed 
+1 week later by administration of 500 mg/L sodium phenobarbital (a known cancer promoter) in drinking 
+47 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+water for 56 days. Examination of livers in the treated rats did not reveal significant treatment-induced 
+increases in gamma glutamyl transpeptidase-positive foci (an indicator of preneoplastic liver changes). 
+3.2.3 Dermal Exposure 
+The database for health effects related to dermal exposure to chlorine dioxide or chlorite is extremely 
+limited. No reports were located regarding adverse effects in humans following dermal exposure to 
+chlorine dioxide or chlorite. Available information in animals is restricted to a report that a solution 
+containing chlorine dioxide concentrations of approximately 9.7–11.4 mg/L was nonirritating to the skin 
+of mice in a 48-hour test. Dermal exposure to high concentrations would be expected to result in 
+irritation, due to the oxidizing properties of chlorine dioxide and chlorite. Sodium chlorite was not 
+carcinogenic in mice treated dermally for 51 weeks. Nor did sodium chlorite appear to be a cancer 
+promoter in mice initiated with a single dermal dose of dimethylbenzanthracene followed by 51 weeks of 
+dermal exposure to sodium chlorite. 
+The toxicity of Alcide, an antimicrobial compound consisting of solutions of sodium chlorite and lactic 
+acid that produce chlorine dioxide when mixed, was assessed in laboratory animals following repeated 
+exposure and in fetuses of pregnant animals following in utero exposure during critical periods of 
+organogenesis (Abdel-Rahman et al. 1987a, 1987b; Gerges et al. 1985). However, levels of exposure to 
+sodium chlorite and chlorine dioxide were not known and uncertainty exists regarding the potential for 
+the formation of other reactive substances that could trigger toxic responses. 
+3.2.3.1 Death 
+No reports were located regarding death in humans or animals following dermal exposure to chlorine 
+dioxide or chlorite. 
+3.2.3.2 Systemic Effects 
+No reports were located in which respiratory, cardiovascular, gastrointestinal, hematological, 
+musculoskeletal, hepatic, renal, endocrine, ocular, or body weight effects could be associated with dermal 
+exposure to chlorine dioxide or chlorite in humans or animals. 
+48 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Dermal Effects. No reports were located regarding dermal effects in humans following dermal 
+exposure to chlorine dioxide or chlorite. 
+A solution containing chlorine dioxide concentrations of approximately 9.7–11.4 mg/L was nonirritating 
+to the skin of mice in a 48-hour test (Shi and Xie 1999). Moderate to severe erythema was observed in 
+rabbits following repeated daily applications of Alcide, an antimicrobial compound consisting of 
+solutions of sodium chlorite and lactic acid that produce chlorine dioxide when mixed (Abdel-Rahman et 
+al. 1987b). However, levels of exposure to sodium chlorite or chlorine dioxide could not be quantified. 
+No reports were located in which the following health effects in humans or animals could be associated 
+with dermal exposure to chlorine dioxide or chlorite: 
+3.2.3.3 Immunological and Lymphoreticular Effects 
+3.2.3.4 Neurological Effects 
+3.2.3.5 Reproductive Effects 
+3.2.3.6 Developmental Effects 
+No reports were located regarding developmental effects in humans following dermal exposure to 
+chlorine dioxide or chlorite. 
+Animal data are limited to studies of laboratory rodents exposed to Alcide, an antimicrobial compound 
+consisting of solutions of sodium chlorite and lactic acid that produce chlorine dioxide when mixed 
+(Abdel-Rahman et al. 1987a; Gerges et al. 1985). No statistically significant treatment-related 
+developmental effects were observed in the offspring of rats, mice, and rabbits treated daily with dermal 
+applications of Alcide gel (as high as 2 g/kg) during the critical period of organogenesis. However, levels 
+of exposure to sodium chlorite or chlorine dioxide could not be quantified. 
+3.2.3.7 Cancer 
+Kurokawa et al. (1984) conducted two dermal carcinogenicity assays on chlorite. In an assay designed to 
+assess the ability of chlorite to act as a complete carcinogen, female mice were treated with dermal 
+applications of sodium chlorite (in acetone) twice weekly for 51 weeks. Compared with controls, sodium 
+49 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+chlorite exposure did not result in increased tumor incidence. To test the ability of chlorite to act as a 
+tumor promoter, a single initiating dose of dimethylbenzanthracene (DMBA) was applied to the skin of 
+mice. The DMBA application was followed by dermal applications of sodium chlorite (in acetone) twice 
+weekly for 51 weeks. Although incidences of tumors were higher in the chlorite/acetone-exposed mice 
+than in those receiving acetone only, the differences were not statistically significant. 
+3.3 GENOTOXICITY 
+No reports were located regarding the genotoxicity of chlorine dioxide or chlorite in humans. 
+The genotoxic potential of chlorine dioxide and chlorite has been assessed in a number of standard 
+genotoxicity test systems, resulting in both positive and negative results. Chlorine dioxide was not 
+mutagenic (either with or without metabolic activation) in one Ames assay of Salmonella typhimurium 
+strains TA 97, TA98, TA100, and TA102 (Wang et al. 2002a), but a weakly positive response (without 
+metabolic activation) in strain TA100 was noted in another Ames assay (Ishdate et al. 1984). Chlorine 
+dioxide did not increase chromosomal aberrations in Chinese hamster fibroblast cells (Ishidate et al. 
+1984). Samples of water that had been disinfected with chlorine dioxide did not induce reverse mutations 
+in S. typhimurium with or without activation (Miller et al. 1986). Negative results were obtained from in 
+vivo assays for micronuclei and bone marrow chromosomal aberrations in Swiss CD-1 mice, as well as 
+sperm-head abnormalities in B6C3F1 mice, following gavage administration of chlorine dioxide doses 
+ranging from 0.1 to 0.4 mg/mouse/day for 5 consecutive days (Meier et al. 1985). Chlorine dioxide did 
+not induce micronuclei in the bone marrow of mice that had been exposed via the drinking water at a 
+concentration of 624 mg/L (Wang et al. 2002b). Hayashi et al. (1988) reported positive results in the 
+micronucleus assay in ddY mice following single intraperitoneal injection of chlorine dioxide at dose 
+levels of 3.2–25 mg/kg. 
+Sodium chlorite induced reverse mutations in S. typhimurium (with activation) and chromosomal 
+aberrations in Chinese hamster fibroblast cells (Ishidate et al. 1984). Negative results were obtained from 
+in vivo assays for micronuclei and bone marrow chromosomal aberrations in Swiss CD-1 mice, as well as 
+sperm-head abnormalities in B6C3F1 mice, following gavage administration of sodium chlorite at doses 
+ranging from 0.25 to 1 mg/mouse/day for 5 consecutive days (Meier et al. 1985). Hayashi et al. (1988) 
+reported negative results for induction of micronuclei in ddY mice that were administered sodium chlorite 
+in single oral gavage doses ranging from 37.5 to 300 mg/kg, but positive results were obtained in mice 
+subjected to single or multiple intraperitoneal injection of 7.5 to 60 mg sodium chlorite/kg. 
+50 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+3.4 TOXICOKINETICS 
+Although no data were located regarding absorption following inhalation exposure to chlorine dioxide, 
+little absorption of parent compound across lung tissue would be expected due to the highly reactive nature of chlorine dioxide. The rapid appearance of 36Cl in plasma following oral administration of 
+chlorine dioxide (36ClO2) or chlorite (36ClO2-) has been shown in laboratory animals. Using 72-hour urinary excretion rates for 36Cl, absorption rates of 30–35% of intragastrically administered chlorine dioxide or chlorite have been estimated. Limited animal data indicate the presence of 36Cl in plasma 
+following dermal application of Alcide, an antimicrobial compound containing sodium chlorite and lactic 
+acid that rapidly form chlorine dioxide when mixed together. In rats, absorbed 36Cl (from 36ClO2 or - 36ClO2 exposure sources) is slowly cleared from the blood and is widely distributed throughout the body. Chlorine dioxide rapidly dissociates, predominantly into chlorite (which itself is highly reactive) and chloride ion (Cl-), ultimately the major metabolite of both chlorine dioxide and chlorite in biological systems. Urine is the primary route of 36Cl elimination, predominantly in the form of chloride ion. 
+3.4.1 Absorption 
+3.4.1.1 Inhalation Exposure 
+No information was located regarding absorption following inhalation exposure to chlorine dioxide or 
+chlorite in humans or animals. 
+3.4.1.2 Oral Exposure 
+No information was located regarding absorption following oral exposure to chlorine dioxide or chlorite 
+in humans. 
+In rats, a single gavage dose of 36ClO2 resulted in the rapid appearance of 36Cl in the plasma, which peaked 1 hour after dosing (Abdel-Rahman et al. 1980a). Based on 72-hour urinary excretion of 30% of the 36Cl in the administered dose, it can be assumed that absorption was at least 30%. The absorption rate 
+constant and half-time were 3.77/hour and 0.18 hours, respectively (Abdel-Rahman et al. 1982). Similar 
+- results were reported following single gavage dosing of rats with 36ClO2 (Abdel-Rahman et al. 1982). In 
+51 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+this study, peak plasma levels of 36Cl were reached within 2 hours following dosing and 72-hour urinary 
+excretion data indicated that at least 35% of the radiolabel had been absorbed. The absorption rate 
+constant and half-time were 0.198/hour and 3.5 hours, respectively. 
+3.4.1.3 Dermal Exposure 
+No information was located regarding absorption following dermal exposure to chlorine dioxide or 
+chlorite in humans. 
+Dermal absorption of 36Cl was measured in rats following 10 daily applications of Alcide, an 
+antimicrobial compound consisting of solutions of sodium chlorite and lactic acid that produce chlorine dioxide when mixed (Scatina et al. 1984). Maximal levels of plasma 36Cl were reached after 72 hours. 
+The absorption rate constant and half-life were 0.0314/hour and 22.1 hours, respectively. 
+3.4.2 Distribution 
+3.4.2.1 Inhalation Exposure 
+No information was located regarding distribution of chlorine dioxide, chlorite, or their metabolites 
+following inhalation exposure in humans or animals. 
+3.4.2.2 Oral Exposure 
+No information was located regarding distribution of chlorine dioxide, chlorite, or their metabolites 
+following oral exposure in humans. 
+Animal data indicate that 36Cl, absorbed from the gastrointestinal tract following single oral (gavage) administration of 36ClO2, is cleared from the blood with a half-time of elimination of 43.9 hours (Abdel- Rahman et al. 1982) and is widely distributed throughout the body (Abdel-Rahman et al. 1980a, 1980b, 
+1982, 1984a). At 72 hours following dosing, highest concentrations were found in the blood, stomach, 
+and small intestines. Relatively high concentrations were also seen in the lung, kidney, liver, testes, 
+spleen, thymus, and bone marrow. A shorter elimination half-time (31.0 hours) was noted in rats that had 
+been exposed to chlorine dioxide in the drinking water for 2 weeks prior to receiving a single gavage dose 
+52 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+of 36ClO2 (Abdel-Rahman et al. 1980a). Single oral (gavage) administration of chlorite (36ClO2-) resulted in an elimination half-time of 35.2 hours from the blood and widespread distribution of 36Cl (Abdel- 
+Rahman et al. 1982, 1984a), similar to that observed following oral exposure to chlorine dioxide. 
+3.4.2.3 Dermal Exposure 
+No information was located regarding distribution of chlorine dioxide, chlorite, or their metabolites following dermal exposure in humans or animals. However, 36Cl has been measured in plasma of rats 
+following 10 daily applications of Alcide, an antimicrobial compound consisting of solutions of sodium 
+chlorite and lactic acid that produce chlorine dioxide when mixed (Scatina et al. 1984). 
+3.4.3 Metabolism 
+3.4.3.1 Inhalation Exposure 
+No information was located regarding metabolism of chlorine dioxide or chlorite following inhalation 
+exposure in humans or animals. 
+3.4.3.2 Oral Exposure 
+Both chlorine dioxide and chlorite are primarily metabolized to chloride ion. At 72 hours following 
+single oral (gavage) administration of radiolabeled chlorine dioxide in rats, chloride ion accounted for 
+approximately 87% of the radioactivity that had been collected in the urine and 80% of the radioactivity 
+in a plasma sample (Abdel-Rahman et al. 1980b). Chlorite was the other major metabolite, accounting 
+for approximately 11 and 21% of the radioactivity in the urine and plasma samples, respectively. 
+Chlorate was a minor component of the radioactivity in the urine. Similarly, chloride ion accounted for 
+approximately 85% of the radioactivity in the 72-hour urine collection of rats that had been orally 
+administered radiolabeled chlorite; the remainder in the form of chlorite (Abdel-Rahman et al. 1984a). 
+Both chlorine dioxide and chlorite, being strong oxidizing agents, are most likely rapidly reduced in 
+biological systems mainly to chloride ion. Bercz et al. (1982) demonstrated this reduction for chlorine 
+dioxide that was introduced into saliva obtained from anesthetized monkeys. 
+53 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+3.4.3.3 Dermal Exposure 
+No information was located regarding metabolism of chlorine dioxide or chlorite following dermal 
+exposure in humans or animals. 
+3.4.4 Elimination and Excretion 
+3.4.4.1 Inhalation Exposure 
+No information was located regarding elimination or excretion following inhalation exposure to chlorine 
+dioxide or chlorite in humans or animals. 
+3.4.4.2 Oral Exposure 
+The urine is the primary route of excretion of orally administered radioactivity from radiolabeled chlorine dioxide or chlorite. In rats, 72 hours following single oral (gavage) administration of 36ClO2, 31 and 4.5% of the radiolabel had been excreted in the urine and feces, respectively, mainly in the form of the chloride 
+- ion. The ratio of 36Cl- to 36ClO2 was 4 to 1, and no parent compound was detected (Abdel-Rahman et al. 1980a, 1980b). In rats administered a single oral (gavage) dose of radiolabeled chlorite, 35 and 5% of the 
+radiolabel were excreted in the urine and feces, respectively, in the first 72 hours after dosing. 
+Approximately 90% of the urinary label was in the form of chloride ion (Abdel-Rahman et al. 1984a). 
+3.4.4.3 Dermal Exposure 
+Urinary excretion of 36Cl was observed in rats that had been administered Alcide, an antimicrobial 
+compound consisting of sodium chlorite and lactic acid that form chlorine dioxide when mixed (Scatina et 
+al. 1984). The rats had received 10 daily dermal applications, followed by an application of radiolabeled 
+Alcide. Urinary excretion was greatest in the first 24 hours post application; the half-time of urinary 
+elimination was 64 hours. The excreted radioactivity consisted of approximately equal portions of 
+chloride ion and chlorite. No radioactivity was detected in feces or expired air. 
+54 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+3.4.5 Physiologically Based Pharmacokinetic (PBPK)/Pharmacodynamic (PD) Models 
+Physiologically based pharmacokinetic (PBPK) models use mathematical descriptions of the uptake and 
+disposition of chemical substances to quantitatively describe the relationships among critical biological 
+processes (Krishnan et al. 1994). PBPK models are also called biologically based tissue dosimetry 
+models. PBPK models are increasingly used in risk assessments, primarily to predict the concentration of 
+potentially toxic moieties of a chemical that will be delivered to any given target tissue following various 
+combinations of route, dose level, and test species (Clewell and Andersen 1985). Physiologically based 
+pharmacodynamic (PBPD) models use mathematical descriptions of the dose-response function to 
+quantitatively describe the relationship between target tissue dose and toxic end points. 
+PBPK/PD models refine our understanding of complex quantitative dose behaviors by helping to 
+delineate and characterize the relationships between: (1) the external/exposure concentration and target 
+tissue dose of the toxic moiety, and (2) the target tissue dose and observed responses (Andersen et al. 
+1987; Andersen and Krishnan 1994). These models are biologically and mechanistically based and can 
+be used to extrapolate the pharmacokinetic behavior of chemical substances from high to low dose, from 
+route to route, between species, and between subpopulations within a species. The biological basis of 
+PBPK models results in more meaningful extrapolations than those generated with the more conventional 
+use of uncertainty factors. 
+The PBPK model for a chemical substance is developed in four interconnected steps: (1) model 
+representation, (2) model parametrization, (3) model simulation, and (4) model validation (Krishnan and 
+Andersen 1994). In the early 1990s, validated PBPK models were developed for a number of 
+toxicologically important chemical substances, both volatile and nonvolatile (Krishnan and Andersen 
+1994; Leung 1993). PBPK models for a particular substance require estimates of the chemical substance- 
+specific physicochemical parameters, and species-specific physiological and biological parameters. The 
+numerical estimates of these model parameters are incorporated within a set of differential and algebraic 
+equations that describe the pharmacokinetic processes. Solving these differential and algebraic equations 
+provides the predictions of tissue dose. Computers then provide process simulations based on these 
+solutions. 
+The structure and mathematical expressions used in PBPK models significantly simplify the true 
+complexities of biological systems. If the uptake and disposition of the chemical substance(s) is 
+adequately described, however, this simplification is desirable because data are often unavailable for 
+55 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+many biological processes. A simplified scheme reduces the magnitude of cumulative uncertainty. The 
+adequacy of the model is, therefore, of great importance, and model validation is essential to the use of 
+PBPK models in risk assessment. 
+PBPK models improve the pharmacokinetic extrapolations used in risk assessments that identify the 
+maximal (i.e., the safe) levels for human exposure to chemical substances (Andersen and Krishnan 1994). 
+PBPK models provide a scientifically sound means to predict the target tissue dose of chemicals in 
+humans who are exposed to environmental levels (for example, levels that might occur at hazardous waste 
+sites) based on the results of studies where doses were higher or were administered in different species. 
+Figure 3-3 shows a conceptualized representation of a PBPK model. 
+No PBPK models for exposure to chlorine dioxide or chlorite were identified. 
+3.5 MECHANISMS OF ACTION 
+3.5.1 Pharmacokinetic Mechanisms 
+Absorption. No information was located regarding mechanisms of absorption of chlorine dioxide or 
+chlorite. Being a strong oxidizer, chlorine dioxide is likely to undergo rapid redox reactions within 
+biological tissues rather than to be absorbed as parent compound. Chlorite levels have been measured in 
+urine following oral exposure to chlorine dioxide or chlorite, indicating that some degree of chlorite 
+absorption occurs across the digestive tract. Due to the highly reactive nature of chlorite, itself a strong 
+oxidizer, absorption would be expected to occur via passive diffusion rather than active transport 
+mechanisms. 
+Distribution. No information was located regarding the transport of chlorine dioxide or chlorite in the 
+blood. However, based on the fact that the strong oxidizing property of chlorine dioxide likely results in 
+rapid conversion to chlorite (also a strong oxidizer) in biological systems, and ultimately to chloride ion, 
+it would be expected that distribution would follow normal ionic distribution patterns. 
+Metabolism. Although no information was located regarding mechanisms of chlorine dioxide and 
+chlorite metabolism, ultimate transformation to chloride ions is likely achieved via redox reactions with a 
+variety of substances in biological systems that are readily oxidized. 
+56 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Figure 3-3. Conceptual Representation of a Physiologically Based Pharmacokinetic (PBPK) Model for a Hypothetical Chemical Substance 
+Inhaled chem ical E xhaled chem ical 
+Ingestion Lungs 
+Liver 
+G I 
+V max K m 
+Tract A R Fat T E R Slow ly perfused tissues I A L Richly perfused tissues 
+Feces V E N O U S B L B O L O O D K idney 
+O D 
+Urine 
+Skin 
+C hem icals in air contacting skin 
+Source: adapted from Krishnan et al. 1994 
+Note: This is a conceptual representation of a physiologically based pharmacokinetic (PBPK) model for a hypothetical chemical substance. The chemical substance is shown to be absorbed via the skin, by inhalation, or by ingestion, metabolized in the liver, and excreted in the urine or by exhalation. 
+57 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Excretion. No information was located regarding specific mechanisms of excretion of chlorine 
+dioxide, chlorite, or their metabolites. However, since chloride ion is the primary excretory product of 
+chlorine dioxide and chlorite, excretory mechanisms would be expected to be similar to those responsible 
+for excretion of other ions. 
+3.5.2 Mechanisms of Toxicity 
+Chlorine dioxide and chlorite are strong oxidizing agents that readily react upon direct contact with 
+biological tissues, resulting in local irritation. Mechanisms whereby chlorine dioxide and chlorite exert 
+hematological effects such as methemoglobinemia in humans (Lin and Lim 1993; Michael et al. 1981) 
+and animals (Bercz et al. 1982; Harrington et al. 1995a; Heffernan et al. 1979b) and alterations in other 
+blood factors are not presently known, but may be related to their properties as oxidants. Due to its 
+highly reactive nature, it is unlikely that chlorine dioxide would be absorbed in quantities large enough to 
+produce systemic toxicity directly. Chlorite is produced and absorbed following oral exposure to chlorine 
+dioxide in animals (Abdel-Rahman et al. 1980b), and may be more likely to be involved in observed 
+hematological effects than chlorine dioxide itself. Chlorite has been shown to be more efficient than 
+chlorine dioxide in the production of methemoglobin, in decreasing blood glutathione, and in alteration of 
+erythrocytes (Abdel-Rahman et al. 1980a, 1984b; Couri and Abdel-Rahman 1980; Heffernan et al. 1979a, 
+1979b). In vitro studies have further shown that sufficient amounts of glutathione may prevent chlorine 
+dioxide-induced osmotic fragility, presumably by the prevention of the formation of disulfide bonds 
+between hemoglobin and components of the cell membrane (Abdel-Rahman et al. 1984b). A recent in 
+vitro study demonstrated that sodium chlorite readily depleted glutathione in mammalian cells, but 
+treatment of phospholipids with chlorite yielded only low levels of hydroperoxides (Ingram et al. 2003). 
+These findings indicate that chlorite-induced cellular damage may be more likely due to interaction with 
+thiol compounds than with cell membrane lipids. 
+Although changes in thyroid hormones have been reported in laboratory animals that were either directly 
+exposed to chlorine dioxide or exposed to chlorine dioxide or chlorite via their mothers during pre and 
+postpartum development (Bercz et al. 1982; Carlton and Smith 1985; Carlton et al. 1987, 1991; Mobley et 
+al. 1990; Orme et al. 1985), possible mechanisms that might mediate such effects have not been 
+elucidated. Increased levels of iodine have been noted in esophagus and small intestine of rats up to 
+24 hours after administration of gavage doses of radiolabeled iodine followed by chlorine dioxide 
+(Harrington et al. 1985). However, no concurrent treatment-related alterations in blood or thyroid gland 
+iodine level were seen. Because the extent of thyroid uptake of bioavailable iodine does not appear to 
+58 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+decrease following oral exposure to chlorine dioxide, Bercz et al. (1986) speculated that indications of 
+altered hormonogenesis, such as altered serum thyroid hormone, could be the result of absorption of 
+iodinated molecules having thyromimetic or thyroid inhibitory properties. These results, however, do not 
+imply that the effect is mediated through a hormonal pathway. 
+Likewise, mechanisms responsible for the developmental effects observed in laboratory animals exposed 
+to chlorine dioxide or chlorite are not known. They might be related to the oxidative properties of these 
+chemicals. Although overt signs of neurodevelopmental effects (delays in exploratory activity and 
+general locomotor activity) and altered serum thyroid hormone have been observed concurrently in 
+animals that had been exposed via their mothers during pre and postpartum development, a mechanistic 
+basis has not been investigated. 
+3.5.3 Animal-to-Human Extrapolations 
+Mechanisms involved in chlorine dioxide- and chlorite-induced oxidative stress, such as 
+methemoglobinemia in humans and animals, would be expected to be similar across species. However, 
+the database of pharmacokinetic and health effects information for chlorine dioxide or chlorite does not 
+include studies in which interspecies comparisons were made. 
+3.6 TOXICITIES MEDIATED THROUGH THE NEUROENDOCRINE AXIS 
+Recently, attention has focused on the potential hazardous effects of certain chemicals on the endocrine 
+system because of the ability of these chemicals to mimic or block endogenous hormones. Chemicals 
+with this type of activity are most commonly referred to as endocrine disruptors. However, appropriate 
+terminology to describe such effects remains controversial. The terminology endocrine disruptors, 
+initially used by Colborn and Clement (1992), was also used in 1996 when Congress mandated the 
+Environmental Protection Agency (EPA) to develop a screening program for “...certain substances 
+[which] may have an effect produced by a naturally occurring estrogen, or other such endocrine 
+effect[s]...”. To meet this mandate, EPA convened a panel called the Endocrine Disruptors Screening and 
+Testing Advisory Committee (EDSTAC), which in 1998 completed its deliberations and made 
+recommendations to EPA concerning endocrine disruptors. In 1999, the National Academy of Sciences 
+released a report that referred to these same types of chemicals as hormonally active agents. The 
+terminology endocrine modulators has also been used to convey the fact that effects caused by such 
+59 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+chemicals may not necessarily be adverse. Many scientists agree that chemicals with the ability to disrupt 
+or modulate the endocrine system are a potential threat to the health of humans, aquatic animals, and 
+wildlife. However, others think that endocrine-active chemicals do not pose a significant health risk, 
+particularly in view of the fact that hormone mimics exist in the natural environment. Examples of 
+natural hormone mimics are the isoflavinoid phytoestrogens (Adlercreutz 1995; Livingston 1978; Mayr et 
+al. 1992). These chemicals are derived from plants and are similar in structure and action to endogenous 
+estrogen. Although the public health significance and descriptive terminology of substances capable of 
+affecting the endocrine system remains controversial, scientists agree that these chemicals may affect the 
+synthesis, secretion, transport, binding, action, or elimination of natural hormones in the body responsible 
+for maintaining homeostasis, reproduction, development, and/or behavior (EPA 1997). Stated differently, 
+such compounds may cause toxicities that are mediated through the neuroendocrine axis. As a result, 
+these chemicals may play a role in altering, for example, metabolic, sexual, immune, and neurobehavioral 
+function. Such chemicals are also thought to be involved in inducing breast, testicular, and prostate 
+cancers, as well as endometriosis (Berger 1994; Giwercman et al. 1993; Hoel et al. 1992). 
+Treatment-related altered serum thyroid hormone levels indicate that chlorine dioxide and chlorite may 
+exert toxic effects that are mediated through the neuroendocrine axis. Changes in thyroid hormones have 
+been reported in laboratory animals that were either directly exposed to chlorine dioxide (repeated doses 
+as low as 9 mg/kg/day), or exposed to chlorine dioxide or chlorite via their mothers (maternal doses of 
+chlorine dioxide and chlorite as low as 13 and 9 mg/kg/day, respectively) during pre- and postpartum 
+development (Bercz et al. 1982; Carlton and Smith 1985; Carlton et al. 1987, 1991; Mobley et al. 1990; 
+Orme et al. 1985). 
+Altered sperm morphology has been associated with oral exposure of rats to sodium chlorite at doses as 
+low as 9 mg chlorite/kg/day for 66–76 days of exposure (Carlton and Smith 1985; Carlton et al. 1987). 
+However, available data do not indicate that the endocrine pathway might be involved in this effect. 
+3.7 CHILDREN’S SUSCEPTIBILITY 
+This section discusses potential health effects from exposures during the period from conception to 
+maturity at 18 years of age in humans, when all biological systems will have fully developed. Potential 
+effects on offspring resulting from exposures of parental germ cells are considered, as well as any indirect 
+effects on the fetus and neonate resulting from maternal exposure during gestation and lactation. 
+Relevant animal and in vitro models are also discussed. 
+60 CHLORINE DIOXIDE AND CHLORITE 
+3. HEALTH EFFECTS 
+Children are not small adults. They differ from adults in their exposures and may differ in their 
+susceptibility to hazardous chemicals. Children’s unique physiology and behavior can influence the 
+extent of their exposure. Exposures of children are discussed in Section 6.6 Exposures of Children. 
+Children sometimes differ from adults in their susceptibility to hazardous chemicals, but whether there is 
+a difference depends on the chemical (Guzelian et al. 1992; NRC 1993). Children may be more or less 
+susceptible than adults to health effects, and the relationship may change with developmental age 
+(Guzelian et al. 1992; NRC 1993). Vulnerability often depends on developmental stage. There are 
+critical periods of structural and functional development during both prenatal and postnatal life and a 
+particular structure or function will be most sensitive to disruption during its critical period(s). Damage 
+may not be evident until a later stage of development. There are often differences in pharmacokinetics 
+and metabolism between children and adults. For example, absorption may be different in neonates 
+because of the immaturity of their gastrointestinal tract and their larger skin surface area in proportion to 
+body weight (Morselli et al. 1980; NRC 1993); the gastrointestinal absorption of lead is greatest in infants 
+and young children (Ziegler et al. 1978). Distribution of xenobiotics may be different; for example, 
+infants have a larger proportion of their bodies as extracellular water and their brains and livers are 
+proportionately larger (Altman and Dittmer 1974; Fomon 1966; Fomon et al. 1982; Owen and Brozek 
+1966; Widdowson and Dickerson 1964). The infant also has an immature blood-brain barrier (Adinolfi 
+1985; Johanson 1980) and probably an immature blood-testis barrier (Setchell and Waites 1975). Many 
+xenobiotic metabolizing enzymes have distinctive developmental patterns. At various stages of growth 
+and development, levels of particular enzymes may be higher or lower than those of adults, and 
+sometimes unique enzymes may exist at particular developmental stages (Komori et al. 1990; Leeder and 
+Kearns 1997; NRC 1993; Vieira et al. 1996). Whether differences in xenobiotic metabolism make the 
+child more or less susceptible also depends on whether the relevant enzymes are involved in activation of 
+the parent compound to its toxic form or in detoxification. There may also be differences in excretion, 
+particularly in newborns who all have a low glomerular filtration rate and have not developed efficient 
+tubular secretion and resorption capacities (Altman and Dittmer 1974; NRC 1993; West et al. 1948). 
+Children and adults may differ in their capacity to repair damage from chemical insults. Children also 
+have a longer remaining lifetime in which to express damage from chemicals; this potential is particularly 
+relevant to cancer. 
+Certain characteristics of the developing human may increase exposure or susceptibility, whereas others 
+may decrease susceptibility to the same chemical. For example, although infants breathe more air per 
