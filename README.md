@@ -6,5 +6,20 @@ Also the Ln=ine no and cols for the string where it was found also gets displaye
 
 # How to Run
 ```
-git clone 
+git clone https://github.com/mhuzaifi0604/Resume-Hunter.git
+```
+```
+cd Resume-Hunter
+```
+```
+python -m venv matcher
+```
+```
+matcher\Scripts\Activate
+```
+```
+pip install -r requirements.txt
+```
+```
+python app.py
 ```
